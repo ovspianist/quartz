@@ -26,7 +26,3 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
-
-ns1.vercel-dns.com
-ns2.vercel-dns.com
-ovspianist.github.io
