@@ -4,7 +4,7 @@ title: 🪴 Chuang Niu's Blog
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-[[A new note]]
+[[A New Note]]
 
 1. Extremely fast natural-language [[notes/search|search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
