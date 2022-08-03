@@ -1,3 +1,5 @@
 ---
-title: "{{title}}"
+title: "<% tp.file.title %>"
+tags: 
+- 
 ---

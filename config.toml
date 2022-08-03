@@ -1,6 +1,6 @@
 baseURL = "https://blog.cniu.art/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-Y6F91FEQ5C"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
