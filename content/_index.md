@@ -12,10 +12,14 @@ Everything I am interested in studying would be listed here if you're curious ab
 
 ## Main focus
 [Currently Reading](notes/Currently%20Reading.md)
-[Trading](notes/Trading.md)
-[Unreal Engine](notes/Unreal%20Engine.md)
-[Houdini](notes/Houdini.md)
-[Coding](notes/Coding.md)
-[Productivity](notes/Productivity.md)
 
+[Trading](notes/Trading.md)
+
+[Unreal Engine](notes/Unreal%20Engine.md)
+
+[Houdini](notes/Houdini.md)
+
+[Coding](notes/Coding.md)
+
+[Productivity](notes/Productivity.md)
 
