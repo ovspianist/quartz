@@ -11,3 +11,11 @@ This is my blog, my thoughts, my [Digital Garden](notes/Digital%20Garden.md).
 Everything I am interested in studying would be listed here if you're curious about it, the search bar above is also useful to find certain pages.
 
 ## Main focus
+[Currently Reading](notes/Currently%20Reading.md)
+[Trading](notes/Trading.md)
+[Unreal Engine](notes/Unreal%20Engine.md)
+[Houdini](notes/Houdini.md)
+[Coding](notes/Coding.md)
+[Productivity](notes/Productivity.md)
+
+
