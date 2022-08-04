@@ -1,7 +1,7 @@
 ---
 title: "Becoming the 3% - Unpacking the One Metric"
 tags: 
-- 
+- "trading"
 ---
 
 # Becoming the 3% - Unpacking the One Metric

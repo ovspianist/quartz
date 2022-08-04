@@ -23,3 +23,4 @@ Everything I am interested in studying would be listed here if you're curious ab
 
 [Productivity](notes/Productivity.md)
 
+[Random Thoughts](notes/Random%20Thoughts.md)

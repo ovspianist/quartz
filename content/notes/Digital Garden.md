@@ -1,6 +1,7 @@
 ---
 title: "Digital Garden"
 tags:
+- "evergreen"
 ---
 
 # Digital Garden

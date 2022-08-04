@@ -312,6 +312,15 @@ hr {
   flex-direction: row;
   gap: 2em;
 
+    // tron graph window
+  @media all and (min-width: 1200px) {
+    flex-direction: column;
+    position: fixed;
+    top:5%;
+    right:10px;
+    width: 28vw;
+    height: 28vw;}
+
   @media all and (max-width: 780px) {
     flex-direction: column;
   }
@@ -319,6 +328,7 @@ hr {
   & > * {
     flex: 1 0 0;
   }
+
 
   & > .backlinks-container {
     & > ul {
@@ -341,6 +351,7 @@ hr {
     box-sizing: border-box;
     min-height: 500px;
     margin: 0.5em 0;
+
 
     & > svg {
       margin-bottom: -5px;

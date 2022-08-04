@@ -1,7 +1,7 @@
 ---
 title: "Becoming the 3% - Part 3 - Psychology"
 tags: 
-- 
+- "trading"
 ---
 
 

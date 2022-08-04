@@ -1,7 +1,7 @@
 ---
 title: "Trading"
 tags: 
-- 
+- "trading"
 ---
 
 # Trading

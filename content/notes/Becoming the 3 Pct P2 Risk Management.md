@@ -1,7 +1,7 @@
 ---
 title: "Becoming the 3% – Part 2 – Risk Management"
 tags: 
-- 
+- "trading"
 ---
 
 # Becoming the 3% – Part 2 – Risk Management
