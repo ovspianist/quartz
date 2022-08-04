@@ -98,6 +98,7 @@ blockquote[class*="-callout"] {
             font-weight: bold;
             color: var(--dark);
             padding: 0.4em 30px;
+            
         }
     }
 }
@@ -109,14 +110,17 @@ blockquote[class*="-callout"] > p:first-child::after, blockquote.callout-collaps
     position: absolute;
     top: 0.4em;
     margin: 0.2em 0.4em;
+    
 }
 
 blockquote[class*="-callout"] > p:first-child {
     font-weight: bold;
     padding: 0.4em 35px;
+    
 
     &::after {
       left: 0;
+      text-indent: 0;
     }
 }
 

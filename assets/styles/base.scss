@@ -150,6 +150,10 @@ blockquote {
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
+  // tron style
+  * {
+    text-indent: 0 !important;
+  }
 }
 
 .footnotes p {
