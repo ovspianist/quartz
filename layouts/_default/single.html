@@ -18,6 +18,7 @@
           <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
           {{ end }}
       </ul>
+      <br>
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
     </article>

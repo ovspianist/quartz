@@ -4,9 +4,8 @@ tags:
 - "trading"
 ---
 
-# Becoming the 3% – Part 1 – Strategy
 
-#### **The game of probability**
+## **The game of probability**
 
 Deep down at its core, trading is just like running a casino, it’s nothing but a game of probability. The difference is when you gamble, the casino has an absolute edge of winning over yours, while designed to be deceptively random. 
 
@@ -22,7 +21,7 @@ Having a strategy that has a genuine mathematical edge is crucial for trading su
 
 The outcome of any single trade is completely random, and it’s futile to try to predict it. What can be measured, predicted and acted on is the probability of one thing happening over the other in a series of trades.
 
-#### **Back testing**
+## **Back testing**
 
 In case you don’t know already, back testing means testing your trading strategy with real historical price data to see how it performs. No matter what kind of strategy you decide to use, either you learned from others or developed on your own, bring it to test with real life historical data. 
 
@@ -32,7 +31,7 @@ Probability won’t work when you have a small set of samples.
 
 If the result is not profitable over 50 trades, either make some changes to it, or just find another strategy, 50 trades are not a lot, but any solid strategy should at least give you a small profit at the end of that period.
 
-#### **Risk of ruin**
+## **Risk of ruin**
 
 There’s also an idea called "Risk of Ruin".
 
@@ -52,7 +51,7 @@ After you have a 50% drawdown, you will need to make a 100% profit to break even
 
 The lower your winning rate is, the less you need to risk per trade so that these unforeseeable losing streaks don’t destroy your account.
 
-#### **Try to break your strategy**
+## **Try to break your strategy**
 
 If your results in back testing proves that strategy could be profitable, try to break it by changing some parameters that define your strategy, in an ideal situation, the changes you make are going to affect the performance gradually, let’s say if you now tweak the distance between your entry point and stop loss point, together with the distance to take profit point so that they maintain the same ratio. 
 
@@ -60,7 +59,7 @@ Just by scaling up and down the distances, you’ll have different performance, 
 
 If you change the parameter gradually, but the results end up jumping up and down as if there’s no connection to the parameter you tweaked, then there might be a systematic flaw with your strategy. Ideally performance changes gradually and there is often an area that gives you the best performance.
 
-#### **Paper trading**
+## **Paper trading**
 
 After thorough back testing and fine tuning the strategy, now you’re ready to trade, but I strongly advise you to do a forward testing.
 
@@ -88,7 +87,7 @@ If you don’t have a platform to paper trade, there’s always the option to ju
 
 -   Size does matter in paper trading, one common mistake new traders make is to trade way bigger sizes and more aggressive than what they can afford in future live trading, not treating paper trading exactly like live trading is likely to encourage bad habits.
 
-#### **Focus on one strategy**
+## **Focus on one strategy**
 
 At least at the beginning, juggling between several different strategies will only diverge your attention. 
 
@@ -100,7 +99,7 @@ That’s the worst time where you should be thinking about how to do certain thi
 
 There are traders who constantly switch between different markets and trading styles, I would advise against trading like that when you’re starting out. If you want to add another strategy or trading style, do it after you’ve proven consistently profitable with one strategy.
 
-#### **Pick strategies that fit your personality**
+## **Pick strategies that fit your personality**
 
 This is more about optimisation than validity, there are many strategies with proven profitability, but you might find most of them hard to adopt because how they are executed.
 

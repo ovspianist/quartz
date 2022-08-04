@@ -5,5 +5,5 @@ tags:
 ---
 
 
-[Becoming the 3%](notes/Becoming%20the%203%20Pct.md)
+[Becoming the 3% Part(1-3)](notes/Becoming%20the%203%20Pct.md)
 

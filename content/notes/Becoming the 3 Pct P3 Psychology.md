@@ -21,7 +21,7 @@ These attributes don’t come naturally to most people, but they are exactly wha
 
 I would consider obtaining a good level of these qualities to be a substantial step towards being a professional trader.
 
-#### **Keeping a trading journal**
+## **Keeping a trading journal**
 
 A while ago I started taking notes for all the trades I made, since then, my trading performance saw some drastic improvement. It seems like the action of writing down your thoughts about the trades every day, really burns the idea in your head.
 
@@ -48,7 +48,7 @@ One trader I look up to a lot once said, almost all of the best traders keep det
 
 To solve a problem you must first acknowledge the problem, I recommend that you start your trading journals if you haven’t already, better late than never.
 
-#### **Avoiding FOMO**
+## **Avoiding FOMO**
 
 Almost everyone is having constant battle with it, the fear of missing out.
 
@@ -60,7 +60,7 @@ You’ll be trapped in the trade and forced to liquidate the position with a big
 
 The moment we feel FOMO kicking in, more often than not, is precisely the end of the momentum. The more impressive the move is, the more your FOMO would be, the more likely a reversal is due.
 
-#### **Be selective**
+## **Be selective**
 
 A good trader learns and accepts the fact that there are cycles in the market, the bull, the bear and the consolidation, not every type of market is suitable to trade with your strategy.
 
@@ -72,7 +72,7 @@ Failing to perform a full check on the stock and trade idea is at best a waste o
 
 Trade the best and leave the rest.
 
-#### **Revenge trading**
+## **Revenge trading**
 
 A few scenarios will trigger a trader to act recklessly:
 
@@ -86,7 +86,7 @@ Personally if I start the day with profit and then turn negative, I would be ver
 
 Learning to recognise those triggers and being able to act early to stop yourself descending deeper and deeper into the bad situation would drastically trim down your biggest red days(weeks or months depending on your trading frequency), which also means an easier time to recover.
 
-#### **Dollar amount vs percentage**
+## **Dollar amount vs percentage**
 
 Whenever I can, I try to focus on my performance in percentage instead of in dollar amount.
 
@@ -102,7 +102,7 @@ Technically a 3K dollars profit with a 100K account and a 30 dollars profit with
 
 Keeping track of this percentage you’ll also have a clear idea when and where you’re deviating from the baseline performance, are you getting sloppy and over confident, or not being able to strictly following your own rules? They are all going to reflect on the history of percentage.
 
-#### **Quality of trades**
+## **Quality of trades**
 
 Here’s another problem, even percentage could be misleading sometimes, especially in a choppy market, you need to be extra careful of what to trade and what to leave alone. The market doesn’t care about your P/L or trading setups, so even percentage of gain is really out of your control, what you can control though, is the quality of the trade.
 
@@ -112,7 +112,7 @@ If price is clearly heading towards a strong resistance level, it would be wrong
 
 Again, the market doesn’t know or care if you hit your 3% daily goal or not, it does what it wants.
 
-#### **Commissions**
+## **Commissions**
 
 If you’re an active day trader using a small account, some brokers charge you commissions that’s just not proportional to the account size. If you can only make 10 dollars with appropriate position size, and the commissions for a buy and a sell cost you 5 dollars, you are not going to make money. You’ll only have half of profit left, at the same time all your losses are much bigger after commissions.
 
@@ -126,7 +126,7 @@ What you definitely don’t want to do, is to change the way you trade to combat
 
 Although, there is one valid optimisation you can adopt, which is to limit the quantity of trades so you don’t waste commissions. Not only that, it also has the benefit of forcing you to only trade the best setups and be extremely selective, since you don’t want to waste your only trade on opportunities less than ideal.
 
-#### **Transition to live account from paper account**
+## **Transition to live account from paper account**
 
 Mark Douglas said something that made me look at paper trading from a completely different angle, I’ll paraphrase what he said because I can’t find the original quote.
 
@@ -152,7 +152,7 @@ The only way forward is to face your fear and greed directly, accept loss and de
 
 I have just lost 20% of my account yesterday, it was painful, and it wasn’t anyone’s fault but mine. Monetary loss is not fun, but what I care about most is how much I follow and respect my own rules, because that is the only thing I can control.
 
-#### **Putting it together**
+## **Putting it together**
 
 A common false belief, although I wish it to be true, is that there’s an Ah Ha moment, an epiphany, or a click, that sends a struggling trader directly to the heaven of profitability. Unfortunately from what I gathered, that is not the case.
 
@@ -164,7 +164,7 @@ Performance of a great dancer might make you feel like dancing is easy, the flui
 
 Some of the elements could become second nature after years of practice, but to perform consistently well every time still requires undivided attention, focus and vigilance.
 
-#### **Visualisation**
+## **Visualisation**
 
 If you’re a visual person like me, it’s not a crazy idea to list all the areas and sub areas you want to improve upon, in terms of process, not results.
 

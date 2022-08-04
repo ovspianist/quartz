@@ -23,13 +23,13 @@ No matter how good your trading strategy is, if you don’t take risks seriously
 
 However, tightening up losses is unarguably super hard to do.
 
-#### **Are you calculating size correctly before entering a trade?**
+## **Are you calculating size correctly before entering a trade?**
 
 It doesn’t matter how you want to approach position sizing, either by a percentage of your equity, or by a predetermined number of shares, as long as you have a system for it, respect it and follow it rigorously.
 
 No trade at any given moment should hold the power to completely eliminate your account, meaning you should always calculate your trading size so that even when the worst case scenario happens, you are still left with most of the account.
 
-#### **Are you cutting your losses when the trades go against you?**
+## **Are you cutting your losses when the trades go against you?**
 
 If you have trouble cutting the loss, are you using an automatic stop loss order?
 
@@ -47,13 +47,13 @@ After that, there’s always the same regret, why didn’t I cut the trade earli
 
 Cut your losing trades earlier.
 
-#### **Are you giving the trades time to develop according to your trading plan?**
+## **Are you giving the trades time to develop according to your trading plan?**
 
 It may feel like there’s nothing wrong with taking profit before it hits your profit target, in some cases yes, but you have to understand if you’re constantly taking profit too soon, you might miss a lot of profit potential.
 
 In a well back tested system where a pre-defined set of rules are set and balanced to generate a stable profitability over a large number of samples, taking profit too early might skew the overall P/L towards negative. Since you’re always letting losses reach the max, but cutting profit short, in the long run, you’ll damage profitability.
 
-#### **Are your positions correlated?**
+## **Are your positions correlated?**
 
 Some of your concurrent positions might be deep down correlated, if that’s the case, when one experiences a drawdown, the others will do the same. This could be a big issue, let’s say you are risking 3% of your equity per trade, and you have 5 open positions.
 
@@ -67,7 +67,7 @@ Stocks that belong to the same sector, forex pairs that are using the same base 
 
 Either diversify the instruments or lower the risks per trade.
 
-#### **Are you taking events into consideration?**
+## **Are you taking events into consideration?**
 
 Events such as earnings or governmental financial reports could have big impacts on how prices move.
 
@@ -75,7 +75,7 @@ These events create a lot of volatility but they are unpredictable. Especially t
 
 If you’re not sure how much of an impact any certain event has on your trades, it’s better to just not trade.
 
-#### **Are you only taking the best quality trades?**
+## **Are you only taking the best quality trades?**
 
 When the overall market is experiencing a drawdown such as right now in February 2022, there could be a severe decrease in trading opportunities for some strategies.
 
@@ -91,7 +91,7 @@ Recognising what kind of market you’re in helps you fine tune your strategy to
 
 Forcing a trade in a subpar market condition is in fact taking more risk for less gain.
 
-#### **But why is it so hard to do?**
+## **But why is it so hard to do?**
 
 Successful risk management sounds easy on paper, but most traders fail at following it. The reason isn’t that the risk management rules are not clear or technically hard to execute.
 
