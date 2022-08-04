@@ -18,3 +18,6 @@ update-force: ## Forcefully pull all changes and don't ask to patch
 
 serve: ## Serve Quartz locally
 	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo
+
+gitgit: ## Lazy git push
+	git add . && git commit -m "lazy update" && git push

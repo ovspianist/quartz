@@ -33,6 +33,9 @@ tags:
 
 [[Seveni Bar & Restaurant]] for northeastern Chinese food, BBQ are very good.
 
+[[Bone Daddies Soho]] for thick Tonkotsu ramen and garlic on the table.
+
+
 ## Any more to offer?
 *There are here for special reasons, could be authenticity, price, creativity, or quality of services.*
 
