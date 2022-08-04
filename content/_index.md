@@ -23,11 +23,11 @@ Pretty much all the pages you could find here are considered as work in progress
 ## Main Focus
 
 
-On the professional side of things, I use [Unreal Engine](notes/Unreal%20Engine.md) for game design and [Houdini](notes/Houdini.md) for visual effects. Sometimes I use a bit of [Coding](notes/Coding.md) to help with my art creation workflow and other areas in life.
+On the professional side of things, I use [[notes/Unreal Engine|Unreal Engine]] for game design and [Houdini](notes/Houdini.md) for visual effects. Sometimes I use a bit of [Coding](notes/Coding.md) to help with my art creation workflow and other areas in life.
 
 I am a big fan of [Productivity](notes/Productivity.md) and [Creativity](notes/Creativity.md) in general, but I have a few favourite areas I would go deeper into in the future.
 
-Thoughts about [Trading](notes/Trading.md) and some other [Random Thoughts](notes/Random%20Thoughts.md)
+Thoughts about [[notes/Trading|Trading]] and some other [Random Thoughts](notes/Random%20Thoughts.md)
 
 Books I'm [Currently Reading](notes/Currently%20Reading.md).
 
