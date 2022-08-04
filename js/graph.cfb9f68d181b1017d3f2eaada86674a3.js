@@ -144,7 +144,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .join("line")
     .attr("class", "link")
     .attr("stroke", "var(--g-link)")
-    .attr("stroke-width", 2)
+    .attr("stroke-width", 1)
     .attr("data-source", (d) => d.source.id)
     .attr("data-target", (d) => d.target.id)
 
