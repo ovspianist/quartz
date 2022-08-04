@@ -13,9 +13,11 @@ tags:
 ## Places I Like to try
 *Also interested in these? Let's go and try it together!*
 
-[[Yan Fish Hotpot]]
-[[Lao Café]]
-[[Thai Tho Soho]]
+[[Yan Fish Hotpot]] probably the first fish hotpot in London?
+
+[[Lao Café]] a friend recommended this to me.
+
+[[Thai Tho Soho]] a friend also recommended this.
 
 
 ## Favourites 
