@@ -6,6 +6,8 @@ title: 🌱 Chuang Niu's Blog
 
 # Welcome!
 
+<br>
+
 This is my blog, my thoughts, my [Digital Garden](notes/Digital%20Garden.md).
 
 Everything I am interested in studying would be listed here if you're curious about it, the search bar above is also useful to find certain pages.
@@ -15,6 +17,8 @@ Pretty much all the pages you could find here are considered as work in progress
 > [!success] Discord
 >  
 >  **Join my Discord chatroom :**   [Chuang Rambles](https://discord.gg/DFXMeMZCUA)
+
+<br>
 
 ## Main Focus
 
@@ -27,9 +31,10 @@ Thoughts about [Trading](notes/Trading.md) and some other [Random Thoughts](note
 
 Books I'm [Currently Reading](notes/Currently%20Reading.md).
 
+<br>
+
 ## Other Interests
 
-Well, these are mostly the rabbit holes I find myself digging into from time to time. 
+Well, these are mostly the **rabbit holes** I find myself digging into from time to time. 
 
 Being a foodie, I spend most of my outdoor time eating in restaurants, here are some  [restaurants I recommend](notes/Restaurants%20I%20recommend.md) in London.
-
