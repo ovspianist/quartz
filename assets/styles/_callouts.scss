@@ -54,17 +54,20 @@
 
 blockquote.callout-collapsible {
     cursor: pointer;
-
+    
     &.callout-collapsible::after {
         content: '-';
         right: 6px;
         font-weight: bolder;
         font-family: 'Courier New', Courier, monospace;
+        
+
     }
 }
 
 blockquote.callout-collapsed {
-    & > p { border-bottom-right-radius: 5px !important; }
+    & > p { border-bottom-right-radius: 5px !important;
+        text-indent: 0; }
     padding-bottom: 0 !important;
     &::after {
         content: '+' !important;
@@ -82,12 +85,14 @@ blockquote[class*="-callout"] {
     padding-bottom: 0.25em;
     color: var(--dark);
     background-color: var(--lightgray);
+    
 
     & > p {
         border-top-right-radius: 5px;
         padding: 0.5em 1em;
         margin: 0;
         color: var(--gray);
+        text-indent: 0;
 
         &:first-child {
             font-weight: bold;
