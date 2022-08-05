@@ -372,12 +372,32 @@ hr {
     box-sizing: border-box;
     min-height: 500px;
     margin: 0.5em 0;
+    overflow: hidden;
+
+    // position: fixed;
+    // width: 90vw;
+    // height: 90vh;
+    // top: 5vh;
+    // left:5vw;
+    // background-color: beige;
 
 
     & > svg {
       margin-bottom: -5px;
 
     }
+
+
+  }
+  #graph-button {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+
+
   }
 }
 
