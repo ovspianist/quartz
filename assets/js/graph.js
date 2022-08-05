@@ -203,14 +203,15 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       )
     })
     .on("mouseover", function (_, d) {
-      d3.selectAll(".node").transition().duration(200).attr("fill", "rgba(100,100,100,0.1)") //attr("fill", "var(--g-node-inactive)")
-      d3.selectAll(".label").transition().duration(200).style("opacity", 1)
+      //d3.selectAll(".node").transition().duration(200).attr("opacity", 0.1) //attr("fill", "rgba(100,100,100,0.1)") //attr("fill", "var(--g-node-inactive)")
+      d3.selectAll(".label").transition().duration(400).style("opacity", 1)
 
       const neighbours = parseIdsFromLinks([
         ...(index.links[d.id] || []),
         ...(index.backlinks[d.id] || []),
       ])
       const neighbourNodes = d3.selectAll(".node").filter((d) => neighbours.includes(d.id))
+      const noneighbourNodes = d3.selectAll(".node").filter((d) => !neighbours.includes(d.id))
       const currentId = d.id
       window.Million.prefetch(new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`))
       const linkNodes = d3
@@ -218,12 +219,13 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .filter((d) => d.source.id === currentId || d.target.id === currentId)
 
       // highlight neighbour nodes
-      neighbourNodes.transition().duration(200).attr("fill", color)
+      neighbourNodes.transition().duration(400).attr("fill", color).attr("opacity", 1)
+      noneighbourNodes.transition().duration(400).attr("fill", color).attr("opacity", 0.05)
 
       // highlight links
       linkNodes
         .transition()
-        .duration(200)
+        .duration(400)
         .attr("stroke", "var(--g-link-active)")
         .attr("stroke-width", 1)
 
@@ -234,7 +236,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .raise()
         .select("text")
         .transition()
-        .duration(200)
+        .duration(400)
         .attr("opacityOld", d3.select(this.parentNode).select("text").style("opacity"))
         .style("opacity", 1)
         .style("font-size", bigFont + "em")
@@ -242,25 +244,25 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
       // tron style
       const neighbourTexts = d3.selectAll(".label").filter((d) => !neighbours.includes(d.id))
-      neighbourTexts.transition().duration(200).style("opacity", 0.05) //attr("fill", "var(--g-node-inactive)")
+      neighbourTexts.transition().duration(400).style("opacity", 0.05) //attr("fill", "var(--g-node-inactive)")
 
       const unlinkNodes = d3
         .selectAll(".link")
         .filter((d) => !(d.source.id === currentId || d.target.id === currentId))
-      unlinkNodes.transition().duration(200).attr("stroke", "rgba(100,100,100,0.05)")
+      unlinkNodes.transition().duration(400).attr("stroke", "rgba(100,100,100,0.05)")
 
       //d3.select(this.parentNode).select(".node").transition().duration(200).attr("r", r => nodeRadius(r)*2 )
     })
     .on("mouseleave", function (_, d) {
-      d3.selectAll(".node").transition().delay(1000).duration(1000).attr("fill", color)
+      d3.selectAll(".node").transition().duration(800).attr("opacity", 1)
       //tron style
       d3.selectAll(".label")
         .transition()
-        .duration(1000)
+        .duration(800)
         .style("opacity", (opacityScale - 1) / 3.75)
       d3.selectAll(".link")
         .transition()
-        .duration(1000)
+        .duration(800)
         .attr("stroke", "var(--g-link)")
         .attr("stroke-width", 1)
 
@@ -269,7 +271,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .selectAll(".link")
         .filter((d) => d.source.id === currentId || d.target.id === currentId)
 
-      linkNodes.transition().duration(200).attr("stroke", "var(--g-link)")
+      linkNodes.transition().duration(800).attr("stroke", "var(--g-link)")
 
       d3.select(this.parentNode)
         .select("text")
