@@ -158,6 +158,20 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     return 3 + (numOut + numIn) / 4
   }
 
+    // draw labels
+    const labels = graphNode
+    .append("text")
+    .attr("class", "label") // tron style
+    .attr("dx", 0)
+    .attr("dy", (d) => nodeRadius(d) + 8 + "px")
+    .attr("text-anchor", "middle")
+    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
+    .style('opacity', (opacityScale - 1) / 3.75)
+    .style("pointer-events", "none")
+    .style('font-size', fontSize+'em')
+    .raise()
+    .call(drag(simulation))
+
   // draw individual nodes
   const node = graphNode
     .append("circle")
@@ -171,7 +185,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       window.Million.navigate(new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`), ".singlePage")
     })
     .on("mouseover", function (_, d) {
-      d3.selectAll(".node").transition().duration(100).attr("fill", "var(--g-node-inactive)")
+      d3.selectAll(".node").transition().duration(100).attr("fill", "rgba(100,100,100,0.1)") //attr("fill", "var(--g-node-inactive)")
+      d3.selectAll(".label").style('opacity', 1)
 
       const neighbours = parseIdsFromLinks([
         ...(index.links[d.id] || []),
@@ -202,9 +217,22 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .style('opacity', 1)
         .style('font-size', bigFont+'em')
         .attr('dy', d => nodeRadius(d) + 20 + 'px') // radius is in px
+
+        // tron style
+        const neighbourTexts = d3.selectAll(".label").filter((d) => !(neighbours.includes(d.id)))
+        neighbourTexts.transition().duration(200).style('opacity',0.05) //attr("fill", "var(--g-node-inactive)")
+
+        const unlinkNodes = d3
+        .selectAll(".link")
+        .filter((d) => !(d.source.id === currentId || d.target.id === currentId))
+        unlinkNodes.transition().duration(200).attr("stroke", "rgba(100,100,100,0.05)")
+
     })
     .on("mouseleave", function (_, d) {
       d3.selectAll(".node").transition().duration(200).attr("fill", color)
+      //tron style
+      d3.selectAll(".label").transition().duration(200).style('opacity', (opacityScale - 1) / 3.75)
+      d3.selectAll(".link").transition().duration(200).attr("stroke", "var(--g-link)")
 
       const currentId = d.id
       const linkNodes = d3
@@ -223,18 +251,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     })
     .call(drag(simulation))
 
-  // draw labels
-  const labels = graphNode
-    .append("text")
-    .attr("dx", 0)
-    .attr("dy", (d) => nodeRadius(d) + 8 + "px")
-    .attr("text-anchor", "middle")
-    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
-    .style('opacity', (opacityScale - 1) / 3.75)
-    .style("pointer-events", "none")
-    .style('font-size', fontSize+'em')
-    .raise()
-    .call(drag(simulation))
+
 
   // set panning
 
