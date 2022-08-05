@@ -9,6 +9,8 @@ tags:
 
 [[Happy Lamb Hot Pot]]
 
+[[Lotus Garden]]
+
 
 ## Places I Like to try
 > *Also interested in these? Let's go and try it together!*
@@ -37,10 +39,27 @@ tags:
 
 [[Nostimo Mediterranean Gastronomy]] or [[Yamas Greek Cuisine]] for amazing Greek food, great price and welcoming owners.
 
+[[Ippudo]] Japanese ramen, superb.
+
 
 ## Any more to offer?
 > *There are here for special reasons, could be authenticity, price, creativity, or quality of services.*
 
+[[101 Thai Kitchen]] for authentic Thai food.
+
 [[Shujie Hotpot London]] for authentic Sichuan style hotpot, services might be bad and a bit expensive.
 
 [[Punjab]] for Madras curry and tasty naan.
+
+[[Arirang Restaurant]] for their amazing cold noodles, alcohol quite expensive.
+
+[[The Breakfast Club]] amazing British and American breakfast, queue could be long.
+
+[[Homeslice Neal's Yard]] 20 inches pizza, go big or go home!
+
+[[My Old Dutch]] tasty Dutch pancakes, huge portions, reasonable prices.
+
+[[Tosa]] Japanese grill, a bit expensive but very tasty.
+
+[[Master Wei Xi'An]] Chinese Shanxi noodles and other local dishes.
+
