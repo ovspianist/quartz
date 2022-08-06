@@ -1,8 +1,12 @@
 ---
-title: "My Camera Collection"
+title: My Camera Collection
 tags: 
 - 
 ---
+
+
+
+
 
 ## Digital
 
@@ -16,3 +20,4 @@ tags:
 [[Rollei 35s]]
 
 [[Minolta XD7]]
+

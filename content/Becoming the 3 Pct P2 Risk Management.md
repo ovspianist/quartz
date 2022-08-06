@@ -1,8 +1,14 @@
 ---
-title: "Becoming the 3% – Part 2 – Risk Management"
+title: Becoming the 3 Pct P2 Risk Management
 tags: 
-- "trading"
+- trading
 ---
+
+
+
+
+
+
 
 # Becoming the 3% – Part 2 – Risk Management
 
@@ -100,4 +106,7 @@ It’s ourselves that we cannot control.
 Being in a trade is exactly like being in a romantic relationship, giving other people advice is a piece of cake, but when it comes to your own trading(or relationship), you are suddenly blind to all the flaws and mistakes you would’ve clearly see if it were happening to others.
 
 In the next article we will have a look at the common areas that trip people over all the time in their own head.
+
+
+
 

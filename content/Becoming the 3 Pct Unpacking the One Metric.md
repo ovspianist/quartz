@@ -1,8 +1,14 @@
 ---
-title: "Becoming the 3% - Unpacking the One Metric"
+title: Becoming the 3 Pct Unpacking the One Metric
 tags: 
-- "trading"
+- trading
 ---
+
+
+
+
+
+
 
 # Becoming the 3% - Unpacking the One Metric
 
@@ -38,4 +44,7 @@ It is a well-known fact that there are 3 cornerstones in any profitable trading:
 Each category contains many aspects a trader needs to work on before they can achieve long term success.
 
 I will break down each one of them in the future posts.
+
+
+
 

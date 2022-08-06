@@ -1,8 +1,13 @@
 ---
-title: "Becoming the 3% - Part 3 - Psychology"
+title: Becoming the 3 Pct P3 Psychology
 tags: 
-- "trading"
+- trading
 ---
+
+
+
+
+
 
 
 # Becoming the 3% - Part 3 - Psychology 
@@ -177,4 +182,7 @@ Over time you will see a cloud of data points that demonstrate your dedication, 
 Profitability is only possible after you become fully responsible for your own actions and not blame the market for anything. The market is too big for you to control, what you can control though, is how well you respect these rules.
 
 > Focus on process and results will follow.
+
+
+
 

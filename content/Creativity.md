@@ -1,8 +1,13 @@
 ---
-title: "Creativity"
+title: Creativity
 tags: 
 - 
 ---
+
+
+
+
+
 
 ## Photography
 
@@ -13,3 +18,6 @@ I have a mixture of analogue and digital [[My Camera Collection|cameras]] , pers
 ## Art
 
 My art creation is a bit sporadic, every year there's a time when I really want to [draw and paint something](https://cniu.art/art), which lasts about a few weeks. But I hope to have a longer lasting art making period because I really do enjoy it.
+
+
+

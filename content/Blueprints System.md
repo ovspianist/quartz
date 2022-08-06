@@ -1,8 +1,13 @@
 ---
-title: "Blueprints System"
+title: Blueprints System
 tags: 
 - 
 ---
+
+
+
+
+
 
 ## UI
 
@@ -16,3 +21,5 @@ I really don't like Unreal Engine's UI design, everything looks very chunky and 
 ## Related
 
 [[Unreal Engine]]
+
+

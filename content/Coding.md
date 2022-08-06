@@ -1,8 +1,13 @@
 ---
-title: "Coding"
+title: Coding
 tags: 
-- 
+- evergreen
 ---
+
+
+
+
+
 
 ## Languages I use
 
@@ -13,4 +18,6 @@ For my own website, I used [[Typescript]], a layer built on top of [[Javascript]
 I have also written some high performance tools using [[C++]] for some visual effects tasks I needed to do in the past, but nowadays since I work primarily in [[Houdini]] there's really no need for [[C++]], the built-in language [[VEX]] is a high performance language similar to C.
 
 [[Unreal Engine]] is equipped with a node based graphic programming module called [[Blueprints System]], it's just as efficient as its [[C++]] counterpart.
+
+
 

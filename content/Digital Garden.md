@@ -1,8 +1,12 @@
 ---
-title: "Digital Garden"
-tags:
-- "evergreen"
+title: Digital Garden
+tags: 
+- evergreen
 ---
+
+
+
+
 
 ## Digital Garden
 
@@ -32,3 +36,4 @@ Writing and presenting stuff online could be terrifying, the idea of a published
 ## Reference
 
 [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+

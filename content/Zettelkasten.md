@@ -1,8 +1,12 @@
 ---
-title: "Zettelkasten"
+title: Zettelkasten
 tags: 
 - 
 ---
+
+
+
+
 
 
 [[Zettelkasten]] is a German word for "slip box", the phrase was coined by [[Niklas Luhmann]] who was a prolific social scientist in Germany, he published 50 books and over 600 articles in his lifetime, his work was the result of his note-taking and writing system Zettelkasten, it is the equivalent of [[Hypertext]] that we use every day on the internet. The method uses an analogue system that allows him to hyper-connect the index cards that he wrote his ideas on that literally sat inside cabinet drawers, hence the name "slip box". 
@@ -17,3 +21,5 @@ Obsidian allows you to write in [[Markdown]] format notes locally, and easily co
 ## Sources
 
 [Introduction to the Zettelkasten Method • Zettelkasten Method](https://zettelkasten.de/introduction/)
+
+

@@ -1,8 +1,13 @@
 ---
-title: "Becoming the 3% – Part 1 – Strategy"
+title: Becoming the 3 P1 Strategy
 tags: 
-- "trading"
+- 
 ---
+
+
+
+
+
 
 
 ## **The game of probability**
@@ -126,3 +131,6 @@ If you agree with the consensus about how much importance strategies hold, then 
 Especially after blowing up my account twice.
 
 In the next article let’s have a look at risk management, the art of keeping the money you made and not giving back everything when things go bad.
+
+
+

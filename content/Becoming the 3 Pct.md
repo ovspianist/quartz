@@ -1,8 +1,13 @@
 ---
-title: "Becoming the 3%"
+title: Becoming the 3 Pct
 tags: 
-- "trading"
+- trading
 ---
+
+
+
+
+
 
 A series of articles on how to become the 3% of people who actually make consistent profit in the financial market.
 
@@ -13,3 +18,6 @@ A series of articles on how to become the 3% of people who actually make consist
 [Becoming the 3% – Part 2 – Risk Management](Becoming%20the%203%20Pct%20P2%20Risk%20Management.md)
 
 [Becoming the 3% - Part 3 - Psychology](Becoming%20the%203%20Pct%20P3%20Psychology.md)
+
+
+

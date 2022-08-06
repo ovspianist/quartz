@@ -1,8 +1,13 @@
 ---
-title: "Google Books Ngram Viewer"
+title: Google Books Ngram Viewer
 tags: 
-- 
+- website
 ---
+
+
+
+
+
 
 A very powerful tool by [[Google]] for comparing word usage frequency in the past.
 
@@ -13,3 +18,4 @@ https://books.google.com/ngrams/info
 ## 🔗 Links  
 
 https://books.google.com/ngrams
+

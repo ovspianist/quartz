@@ -1,8 +1,13 @@
 ---
-title: "Restaurants I recommend"
+title: Restaurants in London
 tags: 
-- "evergreen"
+- list
+- london
 ---
+
+
+
+
 
 ## Recent Favourites
 > *These are the ones I cannot stop revisiting.*
@@ -62,4 +67,5 @@ tags:
 [[Tosa]] Japanese grill, a bit expensive but very tasty.
 
 [[Master Wei Xi'An]] Chinese Shanxi noodles and other local dishes.
+
 
