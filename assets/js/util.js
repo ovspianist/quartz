@@ -104,8 +104,9 @@ const highlight = (content, term) => {
     })
     .join(" ")
     .replaceAll('</span> <span class="search-highlight">', " ")
-  return `${startIndex === 0 ? "" : "..."}${mappedText}${endIndex === splitText.length ? "" : "..."
-    }`
+  return `${startIndex === 0 ? "" : "..."}${mappedText}${
+    endIndex === splitText.length ? "" : "..."
+  }`
 }
 
 // Common utilities for search
@@ -191,17 +192,16 @@ const displayResults = (finalResults, extractHighlight = false) => {
   } else {
     results.innerHTML = finalResults
       .map((result) => {
-          if (extractHighlight) {
-            return resultToHTML({
-              url: result.url,
-              title: highlight(result.title, term),
-              content: highlight(removeMarkdown(result.content), term)
-            })
-          } else {
-            return resultToHTML(result)
-          }
+        if (extractHighlight) {
+          return resultToHTML({
+            url: result.url,
+            title: highlight(result.title, term),
+            content: highlight(removeMarkdown(result.content), term),
+          })
+        } else {
+          return resultToHTML(result)
         }
-      )
+      })
       .join("\n")
     const anchors = [...document.getElementsByClassName("result-card")]
     anchors.forEach((anchor) => {
