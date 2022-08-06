@@ -26,7 +26,7 @@ This page is dedicated for information about how to use Obsidian to fit my perso
 
 
 
-
+testing shell command
 
 ## 📚 Sources 
 
