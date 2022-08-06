@@ -1,7 +1,7 @@
 ---
 title: "Restaurants I recommend"
 tags: 
-- 
+- "evergreen"
 ---
 
 ## Recent Favourites

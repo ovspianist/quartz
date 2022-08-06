@@ -16,10 +16,18 @@ Our brains are very good at generating ideas, but sucks at holding the informati
 
 A system that enable us to capture our fleeting thoughts is not only beneficial for de-stressing our mind, but also crucial for us to navigate the world in constant information overload. 
 
+## Public Writing
+
+Writing and presenting stuff online could be terrifying, the idea of a published piece carries a lot of responsibilities, however using a system like digital garden changes people's expectation towards the articles they see, it's also good for being not such a perfectionist, you know you can always change the text, and you should update and polish as you go along. 
+
 ## A Second Brain
 
 [Building A Second Brain](https://www.buildingasecondbrain.com/book) by Tiago Forte is in some way related to the topic of digital gardening in a sense that both methods are encouraging the accumulation and constant reshaping of [[Atomic Notes]], with the strong focus on the process of making ideas stand on their own as well as making connections between them. 
 
+
+## Related
+
+[[Zettelkasten]]
 
 ## Reference
 

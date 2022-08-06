@@ -4,17 +4,15 @@ tags:
 - 
 ---
 
-## Work smart
 
-My biggest find this year is [[Obsidian]], this app has become my one and only note-taking app and the core component to my [[Personal Knowledge Management]] system.  
+We live in a world of constant information overload, how do we live and work in a way that's both effective and manageable? 
 
-Obsidian allows you to write in [[Markdown]] format notes locally, and easily connect them using Wiki links, a double bracket surrounding something turns it into a link, which you can then elaborate further on that page. 
+Productivity is one of my deepest interests since I was a child, I'm super lazy when it comes to working and studying, don't get me wrong, I like to get a lot of things done, but I prefer to do it as easily as possible.
 
-Some people call this method "Zettelkasten".
+Here are a few of the categories I am interested in and always seek to improve for myself, and to share them to help other people as well.
 
-[[Zettelkasten]] is a German word for "slip box", the phrase was coined by [[Niklas Luhmann]] who was a prolific social scientist in Germany, he published 50 books and over 600 articles in his lifetime, his work was the result of his note-taking and writing system Zettelkasten, it is the equivalent of [[Hypertext]] that we use every day on the internet. The method uses an analogue system that allows him to hyper-connect the index cards that he wrote his ideas on that literally sat inside cabinet drawers, hence the name "slip box". 
+## Note-taking
 
+A good note-taking routine not only helps keeping and extracting information, another benefit people don't realize is that just by pushing information around, new ideas could be found in the process, and sometimes they are extremely fortuitous and creative.
 
-## Sources
-
-[Introduction to the Zettelkasten Method • Zettelkasten Method](https://zettelkasten.de/introduction/)
+My current method is something known as [[Zettelkasten]], or "slip box".
