@@ -55,12 +55,6 @@ I am a big fan of [[Productivity]] and [[Creativity]] in general, but I have a f
 
 Thoughts about [[Trading]] and some other [[Random Thoughts]]
 
-
-
-Books I'm [[Currently Reading]].
-
-
-
 <br>
 
 
@@ -76,6 +70,12 @@ Well, these are mostly the **rabbit holes** I find myself digging into from time
 Being a foodie, I spend most of my outdoor time eating in restaurants, here are some [[Restaurants in London|restaurants I recommend]] in London.
 
 
+
+Books I'm [[Currently Reading]] and a few of my [[Favourite Films]].
+
+
+
+Finally, [[everything I know]] could be found here.
 
 
 

@@ -34,9 +34,15 @@ A good note-taking routine not only helps keeping and extracting information, an
 
 
 
-My current method is something known as [[Zettelkasten]], or "slip box".
+My current method is something known as [[Zettelkasten]], or "slip box". 
 
 
+
+Although the original Zettelkasten method relies on an analogue system, I think a digital counterpart is probably the best choice, after trying a few different apps, I decided to use [[Obsidian]] for all my note-taking and [[Personal Knowledge Management]].
+
+
+
+Other popular apps could also be useful such as [[Notion]], [[Roam]], [[Evernote]] and [[Apple Notes]].
 
 
 
