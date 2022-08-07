@@ -87,14 +87,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     }
 
     function dragged(event, d) {
-      //  var xy = [d.x-event.dx, d.y-event.dy];
-      //  var transform = d3.zoomTransform(d3.selectAll(".node")["_groups"][0][0]);
-      // transform.x = 0;
-      // transform.y = 0;
-      //   var xy1 = transform.invert(xy);
-      //  console.log(d);
-      //  d.fx = d.x-xy1[0]
-      //  d.fy = d.y-xy1[1]
       d.fx = event.x
       d.fy = event.y
     }
@@ -315,6 +307,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
           const scaledOpacity = Math.max((scale - 1) / 3.75, 0)
           //labels.attr("transform", transform).style("opacity", scaledOpacity)
           labels.style("opacity", scaledOpacity)
+          labels.style("font-size", String((0.3 * 1) / transform.k + fontSize * 0.5) + "em")
           graphNode.attr("transform", transform)
         }),
     )
