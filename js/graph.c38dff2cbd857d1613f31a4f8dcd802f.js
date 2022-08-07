@@ -14,7 +14,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   // tron style
   const button = document.getElementById("graph-button")
-  var isMouseDown = false
 
   const container = document.getElementById("graph-container")
 
@@ -195,7 +194,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       )
     })
     .on("mouseover", function (_, d) {
-      //d3.selectAll(".node").transition().duration(200).attr("opacity", 0.1) //attr("fill", "rgba(100,100,100,0.1)") //attr("fill", "var(--g-node-inactive)")
       d3.selectAll(".label").transition().duration(400).style("opacity", 1)
 
       const neighbours = parseIdsFromLinks([
@@ -299,7 +297,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
           [0, 0],
           [width, height],
         ])
-        .scaleExtent([0.25, 4])
+        .scaleExtent([0.25, 6])
         .on("zoom", ({ transform }) => {
           link.attr("transform", transform)
           //node.attr("transform", transform)
