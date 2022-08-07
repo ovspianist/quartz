@@ -137,7 +137,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       (height * 1) / scale,
     ])
 
-  console.log("creation step.")
+  // console.log("creation step.")
 
   if (enableLegend) {
     const legend = [{ Current: "var(--g-node-active)" }, { Note: "var(--g-node)" }, ...pathColors]
@@ -197,6 +197,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`),
         ".singlePage",
       )
+      const buttonClose = document.getElementById("graph-button-close")
+      buttonClose.click()
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".label").transition().duration(400).style("opacity", 1)
