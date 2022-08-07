@@ -10,7 +10,7 @@ title: 🌱 Chuang Niu's Blog
 
 
 
-# Welcome!
+## Welcome!
 
 
 
@@ -71,7 +71,7 @@ Being a foodie, I spend most of my outdoor time eating in restaurants, here are 
 
 
 
-Books I'm [[Currently Reading]] and a few of my [[Favourite Films]].
+If you're curious what I am doing these days, check out [[Personal Updates]]
 
 
 

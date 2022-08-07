@@ -28,7 +28,47 @@ Here are some of the books I'm currently reading, unlike some perfect human bein
 
 
 
-[[B Is For Bauhaus]]
+[[B is for Bauhaus (Book)]]
+
+
+
+[[On Connection (Book)]]
+
+
+
+[[One Up On Wall Street- How to Use What You Already Know to Make Money in the Market (Book)]]
+
+
+
+[[My Man Jeeves (Book)]]
+
+
+
+[[Kraftwerk- Future Music from Germany (Book)]]
+
+
+
+[[Maybe You Should Talk to Someone- A Therapist, Her Therapist, and Our Lives Revealed (Book)]]
+
+
+
+[[How to Read Literature (Book)]]
+
+
+
+[[The Story of Art (Book)]]
+
+
+
+[[Flights (Book)]]
+
+
+
+[[Hermeneutics- Facts and Interpretation in the Age of Information (Book)]]
+
+
+
+
 
 
 
