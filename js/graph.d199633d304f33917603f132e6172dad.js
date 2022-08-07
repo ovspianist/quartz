@@ -112,18 +112,24 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   const simulation = d3
     .forceSimulation(data.nodes)
-    .force("charge", d3.forceManyBody().strength(-100 * repelForce))
+    .force(
+      "charge",
+      d3
+        .forceManyBody()
+        .strength(-100 * repelForce)
+        .distanceMax(500),
+    )
     .force(
       "link",
       d3
         .forceLink(data.links)
         .id((d) => d.id)
         .distance(linkDistance)
-        .strength(0.3),
+        .strength(0.4),
     )
     //.force("center", d3.forceCenter())
-    .force("center", d3.forceCenter().strength(0.6))
-    .force("collide", d3.forceCollide().radius(4).strength(0.6))
+    .force("center", d3.forceCenter().strength(0.3))
+    .force("collide", d3.forceCollide().radius(12).strength(0.2))
 
   const svg = d3
     .select("#graph-container")
