@@ -5,8 +5,54 @@
 ></script>
 <h3>Interactive Graph</h3>
 <div id="graph-outer-layer">
-    <!-- <button id="graph-button">🔎</button> -->
-    <div id="graph-container"></div>
+  <script>
+    function openFullScreen() {
+      const elem = document.getElementById("graph-container")
+      elem.classList.add("full-screen")
+
+      //  debugger
+
+      //const { width, height } = elem.getBoundingClientRect()
+      //window.height
+
+      const scale = 1
+      const width = screen.width
+      const height = screen.height
+      const svg = d3
+        .select("#graph-container")
+        .selectAll("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("viewBox", [
+          ((-width / 2) * 1) / scale,
+          ((-height / 2) * 1) / scale,
+          (width * 1) / scale,
+          (height * 1) / scale,
+        ])
+    }
+    function closeFullScreen() {
+      const elem = document.getElementById("graph-container")
+      elem.classList.remove("full-screen")
+
+      const scale = 1
+      const height = 500
+      const width = 500
+      const svg = d3
+        .select("#graph-container")
+        .selectAll("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("viewBox", [
+          ((-width / 2) * 1) / scale,
+          ((-height / 2) * 1) / scale,
+          (width * 1) / scale,
+          (height * 1) / scale,
+        ])
+    }
+  </script>
+  <button id="graph-button-open" onclick="openFullScreen()">🔎</button>
+  <button id="graph-button-close" onclick="closeFullScreen()">🔎</button>
+  <div id="graph-container"></div>
 </div>
 
 <style>

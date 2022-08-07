@@ -375,13 +375,15 @@ hr {
     margin: 0.5em 0;
     overflow: hidden;
 
-    // position: fixed;
-    // width: 90vw;
-    // height: 90vh;
-    // top: 5vh;
-    // left:5vw;
-    // background-color: beige;
-
+    &.full-screen {
+      position: fixed;
+      width: 90vw;
+      height: 90vh;
+      top: 5vh;
+      left:5vw;
+      background-color: rgb(43, 43, 43);  
+    }
+    
 
     & > svg {
       margin-bottom: -5px;
@@ -390,15 +392,22 @@ hr {
 
 
   }
-  #graph-button {
-    position: absolute;
-    left: 5%;
-    top: 15%;
+  & #graph-button-open {
+    position: relative;
+    left: 0px;
+    top: 0px;
     width: 40px;
     height: 40px;
     border-radius: 30%;
+  }
 
-
+  & #graph-button-close {
+    position: fixed;
+    right: 1%;
+    top: 1%;
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
   }
 }
 

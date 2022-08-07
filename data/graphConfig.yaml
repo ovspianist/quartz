@@ -29,7 +29,7 @@ globalGraph:
   centerForce: 1
   linkDistance: 12
   fontSize: 0.3
-  opacityScale: 2
+  opacityScale: 1
 
 ### For all graphs ###
 
