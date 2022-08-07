@@ -47,6 +47,8 @@ Here's a list of all software and hardware I'm currently using for my daily life
 
 - [[Nuke]]
 
+- [[Chrome]]
+
 
 
 
