@@ -35,3 +35,5 @@ globalGraph:
 
 paths:
   - /moc: "#4388cc"
+  - Book: "#75578a"
+  - MOC: "#6cba13"

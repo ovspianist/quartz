@@ -67,6 +67,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       const colour = pathColor[path]
       if (d.id.startsWith(path)) {
         return colour
+      } else if (d.id.includes(path)) {
+        return colour
       }
     }
 
@@ -104,8 +106,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       .on("end", enableDrag ? dragended : noop)
   }
 
-  const height = Math.max(container.offsetHeight, isHome ? 500 : 250)
-  const width = container.offsetWidth
+  //const height = Math.max(container.offsetHeight, isHome ? 500 : 250)
+  const height = container.clientWidth
+  const width = container.clientWidth
 
   const simulation = d3
     .forceSimulation(data.nodes)
@@ -133,6 +136,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       (width * 1) / scale,
       (height * 1) / scale,
     ])
+
+  console.log("creation step.")
 
   if (enableLegend) {
     const legend = [{ Current: "var(--g-node-active)" }, { Note: "var(--g-node)" }, ...pathColors]
