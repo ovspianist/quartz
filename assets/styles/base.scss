@@ -353,6 +353,10 @@ hr {
     flex: 1 0 0;
   }
 
+  & #spacer{
+    margin-right: 100px;
+  }
+
   & #graph-title{
     display: flex;
     flex-direction: row;
@@ -426,7 +430,6 @@ hr {
     border-color: rgba(128,128,128,0.5);
     border-width: 1px;
     border-style: solid;
-    margin-right: 1rem;
     align-items: center;
     justify-content: center;
   }
@@ -441,7 +444,6 @@ hr {
     border-color: rgba(128,128,128,0.5);
     border-width: 1px;
     border-style: solid;
-    margin-right: 1rem;
     // font-size: large;
     display: none;
   }
