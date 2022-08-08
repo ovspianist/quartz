@@ -357,12 +357,6 @@ hr {
     margin-right: 100px;
   }
 
-  & #graph-title{
-    display: flex;
-    flex-direction: row;
-    justify-items: left;
-    align-items: center;
-  }
 
   & > .backlinks-container {
     & > ul {
@@ -408,6 +402,7 @@ hr {
     overflow: hidden;
     justify-items: center;
     width: 100%;
+    
 
     &.full-screen {
       position: relative;
@@ -420,8 +415,17 @@ hr {
     }
   }
 
+  & #graph-title{
+    display: flex;
+    flex-direction: row;
+    justify-items: left;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;
+  }
+
   & #graph-button-open {
-    position: relative;
+    // position: relative;
     width: 32px;
     height: 32px;
     border-radius: 30%;
@@ -432,10 +436,12 @@ hr {
     border-style: solid;
     align-items: center;
     justify-content: center;
+    padding:0%;
+    // margin-right:2rem;
   }
 
   & #graph-button-close {
-    position: relative;
+    // position: relative;
     width: 32px;
     height: 32px;
     border-radius: 30%;
@@ -446,6 +452,8 @@ hr {
     border-style: solid;
     // font-size: large;
     display: none;
+    padding:0%;
+    //margin-right:2rem;
   }
 
 }
