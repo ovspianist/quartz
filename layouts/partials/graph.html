@@ -8,16 +8,13 @@
 <div id="graph-outer-layer">
   <script>
     function resizeGraph(width, height, scale) {
-      d3.select("#graph-container")
-        .selectAll("svg")
-        .attr("width", width)
-        .attr("height", height)
-        .attr("viewBox", [
-          ((-width / 2) * 1) / scale,
-          ((-height / 2) * 1) / scale,
-          (width * 1) / scale,
-          (height * 1) / scale,
-        ])
+      d3.select("#graph-container").selectAll("svg").attr("width", width).attr("height", height)
+      // .attr("viewBox", [
+      //   ((-width / 2) * 1) / 1,
+      //   ((-height / 2) * 1) / 1,
+      //   (width * 1) / 1,
+      //   (height * 1) / 1,
+      // ])
     }
     function openFullScreen() {
       const elem = document.getElementById("graph-container")
@@ -54,17 +51,7 @@
       const scale = 1
       const height = 500
       const width = 500
-      const svg = d3
-        .select("#graph-container")
-        .selectAll("svg")
-        .attr("width", width)
-        .attr("height", height)
-        .attr("viewBox", [
-          ((-width / 2) * 1) / scale,
-          ((-height / 2) * 1) / scale,
-          (width * 1) / scale,
-          (height * 1) / scale,
-        ])
+      resizeGraph(width, height, scale)
     }
     window.addEventListener("resize", () => {
       const elem = document.getElementById("graph-container")
