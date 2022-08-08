@@ -198,13 +198,37 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr("oldFill", "#FF0000")
     .style("cursor", "pointer")
     .on("click", (_, d) => {
+      function UrlExists(url) {
+        var http = new XMLHttpRequest()
+        http.open("HEAD", url, false)
+        http.send()
+        if (http.status != 404) return true
+        else return false
+      }
+      function tempAlert(msg, duration) {
+        var el = document.createElement("div")
+        el.classList.add("link-invalid")
+        el.innerHTML = msg
+        setTimeout(function () {
+          el.parentNode.removeChild(el)
+        }, duration)
+        document.body.appendChild(el)
+      }
+      url = `${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`
+
       // SPA navigation
-      window.Million.navigate(
-        new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`),
-        ".singlePage",
-      )
-      const buttonClose = document.getElementById("graph-button-close")
-      buttonClose.click()
+      if (UrlExists(url) == true) {
+        window.Million.navigate(
+          new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`),
+          ".singlePage",
+        )
+        const buttonClose = document.getElementById("graph-button-close")
+        if (buttonClose !== null) {
+          buttonClose.click()
+        }
+      } else {
+        tempAlert("This page hasn't been created yet.", 3000)
+      }
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".label").transition().duration(400).style("opacity", 1)
