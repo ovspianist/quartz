@@ -327,6 +327,8 @@ hr {
   background-color: var(--dark);
 }
 
+
+
 .page-end {
   display: flex;
   flex-direction: row;
@@ -414,6 +416,11 @@ hr {
       margin-bottom: -5px;
     }
   }
+  & i {
+    color: var(--dark);
+    font-size: x-large;
+
+  }
 
   & #graph-title{
     display: flex;
@@ -426,31 +433,40 @@ hr {
 
   & #graph-button-open {
     // position: relative;
-    width: 32px;
-    height: 32px;
+    display: flex;
+    width: 36px;
+    height: 36px;
     border-radius: 30%;
     //background: rgba(128,128,128,0.5);
     background-color: transparent;
     border-color: rgba(128,128,128,0.5);
-    border-width: 1px;
+    border-width: 0px;
     border-style: solid;
+    box-sizing: border-box;
     align-items: center;
     justify-content: center;
     padding:0%;
-    // margin-right:2rem;
+     // margin-right:2rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
   }
 
   & #graph-button-close {
     // position: relative;
-    width: 32px;
-    height: 32px;
+    display: flex;
+    width: 36px;
+    height: 36px;
     border-radius: 30%;
     //background: rgba(128,128,128,0.5);
     background-color: transparent;
     border-color: rgba(128,128,128,0.5);
-    border-width: 1px;
+    border-width: 0px;
     border-style: solid;
+    box-sizing: border-box;
     // font-size: large;
+    align-items: center;
+    justify-content: center;
     display: none;
     padding:0%;
     //margin-right:2rem;

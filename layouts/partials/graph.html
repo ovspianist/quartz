@@ -3,6 +3,8 @@
   integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI="
   crossorigin="anonymous"
 ></script>
+<script src="https://kit.fontawesome.com/6f31f22e53.js" crossorigin="anonymous"></script>
+
 <div id="graph-outer-layer">
   <script>
     function resizeGraph(width, height, scale) {
@@ -76,8 +78,13 @@
 
   <div id="graph-title">
     <h3>Interactive Graph</h3>
-    <button id="graph-button-open" onclick="openFullScreen()">🔍</button>
-    <button id="graph-button-close" onclick="closeFullScreen()">✖</button>
+
+    <button id="graph-button-open" onclick="openFullScreen()">
+      <i class="fas fa-expand fa-lg"></i>
+    </button>
+    <button id="graph-button-close" onclick="closeFullScreen()">
+      <i class="fas fa-compress fa-lg"></i>
+    </button>
   </div>
   <div id="graph-container"></div>
 </div>
