@@ -6,7 +6,7 @@ title: 🌱 Chuang Niu's Blog
 
 
 
-# ![img](https://i.imgur.com/OOca9GG.jpg)
+![img](https://i.imgur.com/OOca9GG.jpg)
 
 
 

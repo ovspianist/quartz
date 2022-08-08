@@ -13,7 +13,7 @@ tags:
 
 
 
-Here's a list of all software and hardware I'm currently using for my daily life.
+Here's a list of all software and hardware I'm currently using daily.
 
 
 
@@ -25,9 +25,11 @@ Here's a list of all software and hardware I'm currently using for my daily life
 
 ## Computers
 
-- Razer Blade 17
+- Razer Blade 17 Laptop
 
-- Razer Naga Pro
+- Razer Naga Pro Mouse
+
+- Keychron K4 Mechanical Keyboard
 
 
 
