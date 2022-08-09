@@ -132,6 +132,10 @@ git merge test
 
 
 
+#### Delete a branch
+
+`git branch -d <branch>`
+
 
 
 # Remote pushing

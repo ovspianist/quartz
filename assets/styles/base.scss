@@ -252,16 +252,25 @@ article {
       }
     }
   }
+
+
   
   & p {
     overflow-wrap: anywhere;
     // tron style
     margin-bottom: 2rem;
-    text-indent: 2rem;
+    text-indent: 2em;
     font-weight: 500;
   }
 
+  & img {
+    transform: translateX(-2em);
+  }
+
+
 }
+
+
 
 .tags {
   list-style: none;

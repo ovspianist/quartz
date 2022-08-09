@@ -53,5 +53,9 @@ Here's a list of all software and hardware I'm currently using daily.
 
 
 
+## Stationery
+
+[[My Fountain Pen Collection]]
+
 
 

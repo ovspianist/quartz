@@ -28,5 +28,9 @@ Gears I'm [[Currently Using]]
 
 
 
+Sometimes I also write [[Daily Notes]]
+
+
+
 
 
