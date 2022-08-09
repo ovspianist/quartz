@@ -88,8 +88,9 @@ blockquote[class*="-callout"] {
     padding: 0.5em 1em;
     margin: 0;
     color: var(--gray);
+    font-weight: 600 !important;
     &:first-child {
-      font-weight: 600;
+      font-weight: 600 !important;
       color: var(--dark);
       padding: 0.4em 30px;
     }
