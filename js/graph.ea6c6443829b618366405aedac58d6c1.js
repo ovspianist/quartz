@@ -255,6 +255,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .duration(400)
         .attr("stroke", "var(--g-link-active)")
         .attr("stroke-width", 1)
+        .attr("stroke-width", (0.3 * 1) / d3.zoomTransform(svg).k + 0.5)
 
       // const bigFont = fontSize * 1.5
       const bigFont = (0.4 * 1) / d3.zoomTransform(svg).k + fontSize * 0.3
@@ -303,7 +304,11 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .selectAll(".link")
         .filter((d) => d.source.id === currentId || d.target.id === currentId)
 
-      linkNodes.transition().duration(800).attr("stroke", "var(--g-link)")
+      linkNodes
+        .transition()
+        .duration(800)
+        .attr("stroke", "var(--g-link)")
+        .attr("stroke-width", (0.3 * 1) / d3.zoomTransform(svg).k + 0.3)
 
       d3.select(this.parentNode)
         .select("text")
@@ -349,6 +354,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
           //labels.attr("transform", transform).style("opacity", scaledOpacity)
           labels.style("opacity", scaledOpacity)
           labels.style("font-size", String((0.3 * 1) / transform.k + fontSize * 0.5) + "em")
+          link.attr("stroke-width", (0.3 * 1) / transform.k + 0.5)
           graphNode.attr("transform", transform)
         }),
     )
