@@ -15,7 +15,7 @@ tags:
 > What exactly is digital gardening?
 
 
-If you don't know what digital gardens are, just think of it as a personal Wikipedia. To keep a digital garden, the end goal isn't having perfectly written articles, instead the process of slowly growing the interconnected knowledge is what digital gardening really cares about.
+If you don't know what digital gardens are, just think of it as a personal Wikipedia. To keep a digital garden, the end goal isn't to have perfectly written articles, instead the process of slowly growing the interconnected knowledge is what digital gardening really cares about.
 
 
 
@@ -31,7 +31,7 @@ A system that enable us to capture our fleeting thoughts is not only beneficial 
 
 
 
-Writing and presenting stuff online could be terrifying, the idea of a published piece carries a lot of responsibilities. However, using a system like digital garden changes people's expectation towards the articles they see, it's also good for being not such a perfectionist: you know you can always change the text, in fact, you should update and polish as you go along. 
+Writing and presenting stuff online could be terrifying, the idea of a published piece carries a lot of responsibilities. However, using a system like digital gardens changes people's expectation towards the articles, it's also good to prevent becoming a perfectionist: you know you can always change the text, in fact, one of the core ideas of digital gardening is that you need to keep updating and polishing as you go along. 
 
 
 

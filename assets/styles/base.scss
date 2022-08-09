@@ -119,8 +119,8 @@ body {
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
-  font-weight: revert;
-  margin: 6rem 0 0;
+  font-weight: 500;
+  margin: 6rem 0 0rem;
   padding: 2rem auto 1rem;
 
   &:hover > .hanchor {
@@ -227,9 +227,15 @@ blockquote {
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
+  border-radius: 3px;
   // tron style
-  * {
+  & * {
     text-indent: 0 !important;
+    font-weight: 300 !important;
+    letter-spacing: 0.05rem !important;
+    font-style: italic;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
   }
 }
 
@@ -369,10 +375,12 @@ sup > a {
     font-family: var(--font-header);
     // tron style
     font-weight: 500;
+    @media all and (max-width: 768px) {
+      font-size: 1.4rem;
+      font-weight: 600;
+    }
   }
-  @media all and (max-width: 768px) {
-    font-size: large;
-  }
+
 }
 
 a {
@@ -444,7 +452,7 @@ hr {
     width: 30vw;
     height: 30vw;}
 
-  @media all and (max-width: 1199px) {
+  @media all and (max-width: 1200px) {
     flex-direction: column;
   }
 
@@ -749,7 +757,7 @@ header {
     }
 
     & h3 > a {
-      font-weight: 700;
+      font-weight: 600;
       margin: 0;
     }
     
@@ -762,12 +770,13 @@ header {
 
   & h3 {
     opacity: 1;
-    font-weight: 700;
+    font-weight: 600;
     margin: 0em;
   }
 
   & .meta {
     opacity: 0.6;
+    text-indent: 0;
   }
 }
 
