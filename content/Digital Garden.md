@@ -12,14 +12,6 @@ tags:
 
 
 
-## Digital Garden
-
-
-
-&nbsp;
-
-
-
 > What exactly is digital gardening?
 
 
