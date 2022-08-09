@@ -125,10 +125,10 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .forceLink(data.links)
         .id((d) => d.id)
         .distance(linkDistance)
-        .strength(0.4),
+        .strength(0.15),
     )
     //.force("center", d3.forceCenter())
-    .force("center", d3.forceCenter().strength(0.3))
+    .force("center", d3.forceCenter().strength(0.9))
     .force("collide", d3.forceCollide().radius(12).strength(0.2))
 
   const svg = d3
@@ -256,7 +256,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .attr("stroke", "var(--g-link-active)")
         .attr("stroke-width", 1)
 
-      const bigFont = fontSize * 1.5
+      // const bigFont = fontSize * 1.5
+      const bigFont = (0.4 * 1) / d3.zoomTransform(svg).k + fontSize * 0.3
 
       // show text for self
       d3.select(this.parentNode)
@@ -271,6 +272,10 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
       // tron style
       const neighbourTexts = d3.selectAll(".label").filter((d) => !neighbours.includes(d.id))
+      neighbourTexts.style(
+        "font-size",
+        String((0.3 * 1) / d3.zoomTransform(svg).k + fontSize * 0.5) + "em",
+      )
       neighbourTexts.transition().duration(400).style("opacity", 0.05) //attr("fill", "var(--g-node-inactive)")
 
       const unlinkNodes = d3
@@ -305,7 +310,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .transition()
         .duration(200)
         .style("opacity", d3.select(this.parentNode).select("text").attr("opacityOld"))
-        .style("font-size", fontSize + "em")
+        // .style("font-size", fontSize + "em")
+        .style("font-size", String((0.3 * 1) / d3.zoomTransform(svg).k + fontSize * 0.5) + "em")
         .attr("dy", (d) => nodeRadius(d) + 8 + "px") // radius is in px
     })
     .call(drag(simulation))
