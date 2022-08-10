@@ -21,8 +21,11 @@
             {{ end }}
           </ul>
           <p class="meta">
-            <span> Planted - {{ partial "date-fmt-publish.html" .}}</span>
-            <span>Last tended - {{ partial "date-fmt.html" .}} {{ partial "github.html" . }}</span>
+            <span> Planted&nbsp;: &nbsp;{{ partial "date-fmt-publish.html" .}} </span>
+            <span
+              >Last tended&nbsp;: &nbsp;{{ partial "date-fmt.html" .}} {{ partial "github.html" .
+              }}</span
+            >
           </p>
         </div>
         <br />
@@ -32,4 +35,15 @@
       {{partial "footer.html" .}}
     </div>
   </body>
+  <script>
+    setTimeout(() => {
+      const article = document.querySelector("article")
+      console.log(article)
+      const y = article.getBoundingClientRect().top + window.pageYOffset - 30
+      // article.scrollIntoView()
+      window.scrollTo({ top: y, behavior: "smooth" })
+      // window.scrollBy(0, y)
+      console.log("here.")
+    }, 800)
+  </script>
 </html>
