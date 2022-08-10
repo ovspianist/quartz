@@ -234,7 +234,7 @@ td, th {
 
 img {
   max-width: 100%;
-  border-radius: 3px;
+  border-radius: 9px;
   margin: 1em 0;
 }
 
@@ -252,8 +252,9 @@ blockquote {
   border-left: 1px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
-  border-radius: 6px;
+  border-radius: 3px;
   // tron style
+  background-color: rgba(133, 133, 133, 0.1);
   & * {
     text-indent: 0 !important;
     font-weight: 300 !important;
@@ -261,6 +262,10 @@ blockquote {
     font-style: italic;
     font-size: small;
     text-align: start !important;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 0.5em;
+    
     // padding-top: 5px !important;
     // padding-bottom: 5px !important;
   }
