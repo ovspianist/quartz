@@ -65,15 +65,15 @@ hr {
   border-color: var(--gray);
   height: 1px;
   &:after {
-    font-family: "Georgia", "New Times Roman", "-apple-system", serif;
+    font-family: "Arial", "Courier New", "Georgia", "Helvetica", "-apple-system", sans-serif;
     //font-family: var(--font-body);
     content: "	\01F65B  \273B  \01F659";
     z-index: -999;
     display: inline-block;
     margin: -1em 0 0.5em;
-    font-size: 1em;
+    font-size: 1.2em;
     padding: 0.5em 1em;
     background: var(--light);
-    transform: translateY(-0.5em);
+    transform: translateY(-0.4em);
   }
 }
