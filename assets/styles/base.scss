@@ -71,16 +71,20 @@ html {
 @keyframes slideInFromTop {
   0% {
       transform: translateY(-150%);
+      opacity: 0;
   }
   15% {
       transform: translateY(0);
+      opacity: 1;
   }
   85% {
     transform: translateY(0);
-}
-100% {
-  transform: translateY(-150%);
-}
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-150%);
+    opacity: 0;
+  }
 }
 
 .link-invalid{
@@ -102,6 +106,7 @@ html {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   padding: 1.5rem;
+  opacity: 0;
 }
 
 
@@ -653,8 +658,8 @@ header {
   height: 100%;
   overflow: scroll;
   display: none;
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px) brightness(30%);
+  -webkit-backdrop-filter: blur(4px) brightness(30%);
 
   & > div {
     width: 50%;

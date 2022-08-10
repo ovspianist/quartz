@@ -14,6 +14,7 @@
         {{if .Title}}
         <h1>{{ .Title }}</h1>
         {{end}}
+        <p class="meta">Created {{ partial "date-fmt-publish.html" .}}</p>
         <p class="meta">
           Last updated {{ partial "date-fmt.html" .}} {{ partial "github.html" . }}
         </p>

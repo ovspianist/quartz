@@ -32,7 +32,7 @@ Pretty much all the pages you could find here are considered as work in progress
 
 > [!success] Discord
 > 
->  **Join my Discord chatroom :**   [Chuang Rambles](https://discord.gg/DFXMeMZCUA)
+>  **Join my Discord chatroom :**   **[Chuang Rambles](https://discord.gg/DFXMeMZCUA)**
 
 
 <br>
