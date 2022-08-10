@@ -48,4 +48,18 @@
       window.scrollTo({ top: y, behavior: "smooth" })
     }, 300)
   </script>
+  <script>
+    const brokenLinks = document.querySelectorAll("a.internal-link.broken")
+    for (const link of brokenLinks) {
+      link.onclick = () => {
+        var el = document.createElement("div")
+        el.classList.add("link-invalid")
+        el.innerHTML = "This page hasn't been created yet."
+        setTimeout(function () {
+          el.parentNode.removeChild(el)
+        }, 3000)
+        document.body.appendChild(el)
+      }
+    }
+  </script>
 </html>

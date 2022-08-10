@@ -42,7 +42,7 @@
       {{$href := strings.TrimRight "/" ($page.GetPage $title).RelPermalink}}
       {{$display := default $title (index $split 1)}}
       {{if not $href}}
-        {{$link := printf "<a class=\"internal-link broken\">%s</a>" $display}}
+        {{$link := printf "<a class=\"internal-link broken\" >%s</a>" $display}}
         {{$content = replace $content . $link}}
       {{else}}
         {{$fullhref := printf "%s%s" $href $block }}
