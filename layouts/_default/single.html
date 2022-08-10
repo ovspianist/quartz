@@ -52,8 +52,10 @@
     for (const link of brokenLinks) {
       link.onclick = () => {
         var el = document.createElement("div")
+        var txt = document.createElement("span")
+        el.appendChild(txt)
         el.classList.add("link-invalid")
-        el.innerHTML = "This page hasn't been created yet."
+        txt.innerHTML = "&nbsp;This page hasn't been created yet.&nbsp;"
         setTimeout(function () {
           el.parentNode.removeChild(el)
         }, 3000)
