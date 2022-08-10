@@ -119,10 +119,11 @@ const resultToHTML = ({ url, title, content }) => {
 
 const redir = (id, term) => {
   // SPA navigation
-  window.Million.navigate(
-    new URL(`${BASE_URL.replace(/\/$/g, "")}${id}#:~:text=${encodeURIComponent(term)}/`),
-    ".singlePage",
-  )
+  // window.Million.navigate(
+  //   new URL(`${BASE_URL.replace(/\/$/g, "")}${id}#:~:text=${encodeURIComponent(term)}/`),
+  //   ".singlePage",
+  // )
+  window.Million.navigate(new URL(`${BASE_URL.replace(/\/$/g, "")}${id}`), ".singlePage")
   closeSearch()
 }
 
