@@ -319,15 +319,32 @@ article {
     // }
   }
 
-  & a {
-    font-weight: 600;
+  & p > a {
+    font-weight: 400;
+
+    // tron style
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: var(--secondary);
+    text-underline-offset: 5px;
+    color: var(--gray);
+
+    &::after{
+      content: " 🔗";
+      font-size: smaller;
+    }
 
     &.internal-link {
-      text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
+      //text-decoration: none;
+      // background-color: transparentize(#8f9fa9, 0.85);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
+      &::after{
+        content: "";
+      }
+
+
 
       &.broken {
         opacity: 0.7;
@@ -343,7 +360,7 @@ article {
     // tron style
     margin-bottom: 2rem;
     text-indent: 2em;
-    font-weight: 500;
+    font-weight: 400;
     // font-size: larger;
      letter-spacing: -0.02em;
     line-height: 1.75em;
