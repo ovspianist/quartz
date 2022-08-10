@@ -394,8 +394,16 @@ article {
     hyphens: auto;
   }
 
+  & .img-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  }
+
   & img {
-    transform: translateX(-2em);
+    // transform: translateX(-2em);
+    // max-width: 94%;
     box-shadow:  0px 10px 30px rgba(0,0,0,0.3), 0px 5px 8px rgba(0,0,0,0.4),0px 0px 4px rgba(255, 255, 255, 0.6), 0px -5px 13px rgba(57, 218, 247, 0.3), 0px -10px 30px rgba(5, 84, 230, 0.3);
   }
 
