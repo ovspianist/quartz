@@ -65,7 +65,7 @@ hr {
   border-color: var(--gray);
   height: 1px;
   &:after {
-    font-family: Georgia, "New Times Roman", serif;
+    font-family: "Georgia", "New Times Roman", "-apple-system", serif;
     //font-family: var(--font-body);
     content: "	\01F65B  \273B  \01F659";
     z-index: -999;
