@@ -20,4 +20,4 @@ serve: ## Serve Quartz locally
 	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo --minify
 
 gitgit: ## Lazy git push
-	git add . && git commit -m "lazy update" && git push
+	git add . && git commit -m "casual updates" && git push

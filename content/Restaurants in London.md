@@ -1,5 +1,7 @@
 ---
 title: Restaurants in London
+publishdate: 2022-08-04T19:12:30
+lastmod: 2022-08-06T17:50:19
 tags: 
 - list
 - london
@@ -42,6 +44,10 @@ tags:
 
 
 [[Thai Tho Soho]] a friend also recommended this.
+
+
+
+[[The Delaunay]] and [[Balthazar]] Interesting interiors and ambience.
 
 
 
