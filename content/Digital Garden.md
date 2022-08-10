@@ -1,5 +1,7 @@
 ---
 title: Digital Garden
+publishdate: 2022-08-06T19:02:43
+lastmod: 2022-08-09T22:12:32
 tags: 
 - evergreen
 ---
@@ -36,6 +38,10 @@ Writing and presenting stuff online could be terrifying, the idea of a published
 
 
 The most important thing about writing is the act of writing, I remember Hemingway once said, write drunk, edit sober. Writing is kind of hard, but if you accept the fact that first drafts are going to be bad, and you can always make changes later down the line, it frees up the writer.
+
+
+
+<hr>
 
 
 

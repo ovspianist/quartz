@@ -16,6 +16,7 @@
 // typography
 html {
   scroll-behavior: smooth;
+
   &:lang(ar) {
     & p, & h1, & h2, & h3, article {
       direction: rtl;
@@ -90,22 +91,26 @@ html {
 .link-invalid{
   position: fixed;
   font-family: var(--font-body);
+  justify-self: center;
   justify-content: center;
   text-align: center;
   width: 50%;
   left:25%;
   top: 3%;
+  transform: translateX(-25%);
   border-radius: 12px;
   letter-spacing: 0.1rem;
   background-color: rgba(128,128,128,0.6);
   color: antiquewhite;
   font-size: 24;
-  padding: 1%;
-  box-shadow:0px 5px 10px rgba(128,128,128,0.2);
+  //padding: 1%;
+  //box-shadow:0px 5px 10px rgba(128,128,128,0.2);
+  box-shadow:  0px 10px 30px rgba(0,0,0,0.3), 0px 5px 8px rgba(0,0,0,0.4),0px 0px 4px rgba(255, 255, 255, 0.6), 0px -5px 13px rgba(57, 218, 247, 0.3), 0px -10px 30px rgba(5, 84, 230, 0.3);
   animation: 3s ease-in-out 0s 1 slideInFromTop;
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
-  padding: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   opacity: 0;
 }
 
@@ -117,7 +122,6 @@ body {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-
 
 }
 
@@ -292,6 +296,8 @@ article {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+    column-gap: 20px;
 
   }
   & > .article-info > .meta {
@@ -302,12 +308,15 @@ article {
     font-size: 14px;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
-    // font-variant-caps: all-small-caps;
 
-    & span{
-      // margin: -3px;
+    align-items: flex-start;
+    // font-variant-caps: all-small-caps;
+    @media all and (max-width: 768px) {
+      font-size: 12px;
     }
+    // & span{
+      
+    // }
   }
 
   & a {
@@ -346,7 +355,7 @@ article {
 
   & img {
     transform: translateX(-2em);
-    box-shadow:  0px 10px 30px rgba(0,0,0,0.3), 0px 5px 8px rgba(0,0,0,0.4),0px 0px 4px rgba(255, 255, 255, 0.6), 0px -5px 13px rgba(57, 218, 247, 0.3), 0px -15px 30px rgba(5, 84, 230, 0.3);
+    box-shadow:  0px 10px 30px rgba(0,0,0,0.3), 0px 5px 8px rgba(0,0,0,0.4),0px 0px 4px rgba(255, 255, 255, 0.6), 0px -5px 13px rgba(57, 218, 247, 0.3), 0px -10px 30px rgba(5, 84, 230, 0.3);
   }
 
 
@@ -377,11 +386,17 @@ article {
     border-radius: 8px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
+    
     &::before {
       content: "#";
       margin-right: 0.3em;
       color: var(--outlinegray);
+      
     }
+    @media all and (max-width: 768px) {
+      font-size: 14px;
+    }
+
   }
 }
 

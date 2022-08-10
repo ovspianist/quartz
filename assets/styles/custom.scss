@@ -51,3 +51,29 @@
 //     --outlinegray: #343434 !important;
 //   }
   
+
+
+hr {
+  overflow: visible; /* For IE */
+  padding: 0;
+  margin: 5em auto;
+  border: none;
+  color: var(--gray);
+  text-align: center;
+  width: 40%;
+  z-index: -999;
+  border-color: var(--gray);
+  height: 1px;
+  &:after {
+    font-family: Georgia, "New Times Roman", serif;
+    //font-family: var(--font-body);
+    content: "	\01F65B  \273B  \01F659";
+    z-index: -999;
+    display: inline-block;
+    margin: -1em 0 0.5em;
+    font-size: 1em;
+    padding: 0.5em 1em;
+    background: var(--light);
+    transform: translateY(-0.5em);
+  }
+}
