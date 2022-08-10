@@ -1,17 +1,18 @@
 <!-- Contact Info -->
 <div id="contact_buttons">
-    <footer>
+  <footer>
+    <ul>
+      {{ if not .IsHome }}
+      <li><a href="{{ $.Site.BaseURL}}">Garden</a></li>
+      {{end}} {{- range $.Site.Data.config.links -}}
+      <li><a href="{{.link}}">{{.link_name}}</a></li>
+      {{- end -}}
+    </ul>
 
-        <ul>
-            {{ if not .IsHome }}
-            <li><a href="{{ $.Site.BaseURL}}">Home</a></li>
-            {{end}}
-            {{- range $.Site.Data.config.links -}}
-            <li><a href="{{.link}}">{{.link_name}}</a></li>
-            {{- end -}}
-        </ul>
-
-        <p>Made by {{ $.Site.Data.config.name }} using <a href="https://github.com/jackyzha0/quartz">Quartz</a>, © {{ dateFormat "2006" now }}</p>
-        <p>&nbsp;</p>
-    </footer>
+    <p>
+      Made by {{ $.Site.Data.config.name }} using
+      <a href="https://github.com/jackyzha0/quartz">Quartz</a>, © {{ dateFormat "2006" now }}
+    </p>
+    <p>&nbsp;</p>
+  </footer>
 </div>

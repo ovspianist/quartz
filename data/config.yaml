@@ -14,9 +14,7 @@ enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+description: Digital garden for game design, visual effects, creativity, art, productivity, film and music, technology and analogue things.
 page_title: "🌱 Chuang's Digital Garden"
 links:
   - link_name: Chuang Niu

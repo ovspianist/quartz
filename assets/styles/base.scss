@@ -792,12 +792,21 @@ header {
 
   & > .section {
     display: flex;
-    align-items: center; 
+    align-items: center;
 
-    @media all and (max-width: 600px) {
-      & .tags {
-        display: none;
-      }
+    // @media all and (max-width: 600px) {
+    //   & .tags {
+    //     display: none;
+    //   }
+    // }
+    
+    & ul.tags{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      justify-content: end;
+      gap: 4px;
     }
 
     & h3 > a {
@@ -809,6 +818,8 @@ header {
       margin: 0;
       padding-right: 1em;
       flex-basis: 6em; 
+      // tron style
+      text-align: left;
     }
   }
 
