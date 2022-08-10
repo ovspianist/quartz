@@ -38,12 +38,8 @@
   <script>
     setTimeout(() => {
       const article = document.querySelector("article")
-      console.log(article)
       const y = article.getBoundingClientRect().top + window.pageYOffset - 30
-      // article.scrollIntoView()
       window.scrollTo({ top: y, behavior: "smooth" })
-      // window.scrollBy(0, y)
-      console.log("here.")
-    }, 800)
+    }, 300)
   </script>
 </html>
