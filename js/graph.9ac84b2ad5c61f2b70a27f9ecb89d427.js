@@ -207,8 +207,10 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       }
       function tempAlert(msg, duration) {
         var el = document.createElement("div")
+        var txt = document.createElement("span")
+        el.appendChild(txt)
         el.classList.add("link-invalid")
-        el.innerHTML = msg
+        txt.innerHTML = msg
         setTimeout(function () {
           el.parentNode.removeChild(el)
         }, duration)
