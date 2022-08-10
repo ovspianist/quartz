@@ -1,5 +1,7 @@
 ---
 title: Currently Reading
+publishdate: 2022-07-13T17:36:13
+lastmod: 2022-08-07T15:07:41
 tags: 
 - list
 ---
@@ -9,6 +11,10 @@ tags:
 
 
 
+
+
+
+![img](https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)
 
 
 
