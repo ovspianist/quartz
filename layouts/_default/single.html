@@ -14,7 +14,12 @@
         {{if .Title}}
         <h1>{{ .Title }}</h1>
         {{end}}
+
         <div class="article-info">
+          <p class="meta">
+            <span>{{.WordCount}} words</span>
+            <span>( ~ {{.ReadingTime}} mins)</span>
+          </p>
           <p class="meta">
             <span> Planted&nbsp;: &nbsp;{{ partial "date-fmt-publish.html" .}} </span>
             <span
@@ -22,18 +27,12 @@
               .}}</span
             >
           </p>
-
-          <ul class="tags">
-            {{ range (.GetTerms "tags") }}
-            <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
-            {{ end }}
-          </ul>
-
-          <p class="meta">
-            <span>{{.WordCount}} words</span>
-            <span>( ~ {{.ReadingTime}} mins)</span>
-          </p>
         </div>
+        <ul class="tags">
+          {{ range (.GetTerms "tags") }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle | upper }}</a></li>
+          {{ end }}
+        </ul>
         <br />
         {{partial "toc.html" .}} {{partial "textprocessing.html" . }}
       </article>
