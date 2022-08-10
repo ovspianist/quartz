@@ -14,15 +14,17 @@
         {{if .Title}}
         <h1>{{ .Title }}</h1>
         {{end}}
-        <p class="meta">Created {{ partial "date-fmt-publish.html" .}}</p>
-        <p class="meta">
-          Last updated {{ partial "date-fmt.html" .}} {{ partial "github.html" . }}
-        </p>
-        <ul class="tags">
-          {{ range (.GetTerms "tags") }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
-          {{ end }}
-        </ul>
+        <div class="article-info">
+          <ul class="tags">
+            {{ range (.GetTerms "tags") }}
+            <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
+            {{ end }}
+          </ul>
+          <p class="meta">
+            <span> Planted - {{ partial "date-fmt-publish.html" .}}</span>
+            <span>Last tended - {{ partial "date-fmt.html" .}} {{ partial "github.html" . }}</span>
+          </p>
+        </div>
         <br />
         {{partial "toc.html" .}} {{partial "textprocessing.html" . }}
       </article>
