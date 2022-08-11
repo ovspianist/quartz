@@ -97,7 +97,7 @@ Jasper sent me a post from someone on Instagram yesterday, it says:
 > I love laughing with you, I love working with you, I love walking with you, I love talking with you, and I also love just existing with you, me being me and you being you.
 
 
-We've been together for 4 years now, every day of our life feels like a river, quiet, nurturing and everlasting. He is everything I am not, and though the time trickling between and around us, from him, I learned kindness, sympathy, and contentment. We own two indoor cats, one black long hair girl called “Lilith” and one ginger boy “Lucifer” (Lucy for short). Jasper being the proud father is very protective of these two children.
+We've been together for 4 years now, every day of our life feels like a river, quiet, nurturing and everlasting. He is everything I am not, and through the time trickling between and around us, from him, I learned kindness, sympathy, and contentment. We own two indoor cats, one black long hair girl called “Lilith” and one ginger boy “Lucifer” (Lucy for short). Jasper being the proud father is very protective of these two children.
 
 
 
