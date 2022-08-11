@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: 500;
-  margin: 6rem 0 0rem;
+  margin: 4rem 0 2rem;
   padding: 2rem auto 1rem;
 
   &:hover > .hanchor {
@@ -346,6 +346,13 @@ article {
     // & span{
       
     // }
+  }
+
+  & h2 {
+    text-decoration: underline;
+    text-decoration-color: var(--secondary);
+    text-underline-offset: 10px;
+    text-decoration-thickness: 2px;
   }
 
   & p > a {

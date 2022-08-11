@@ -1,7 +1,7 @@
 ---
 title: Turning 32
 publishdate: 2022-08-11T13:46:00
-lastmod: 2022-08-11T14:52:04
+lastmod: 2022-08-11T15:53:40
 tags: 
 - letter
 ---
@@ -14,13 +14,15 @@ tags:
 
 
 
-
-
-All of a sudden, it is my 32nd year living on this planet. 
+![img](https://images.unsplash.com/photo-1454923634634-bd1614719a7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
 
 
 ## Becoming an ambivert
+
+
+
+All of a sudden, it is my 32nd year living on this planet. 
 
 
 
@@ -61,13 +63,15 @@ A new documentary series about ILM was released on Disney+ couple of days ago, b
 
 
 > ILM was the place. A “Let's do something no one has ever seen before” attitude.
-> - Robert Zemeckis
+> 
+>  -Robert Zemeckis
 
 
 And another quote from a former president of the company:
 
 > Just because it hasn't been done doesn't mean it can't be.
-> - Lynwen Brennan
+>  
+> -Lynwen Brennan
 
 
 These were the reasons I was attracted to the studio and the industry, in some way, I was a bit like that to begin with. The idea of dropping out of high school and pursuing my dream, was kind of what I considered not a bold move, but the only sensible one. Not everyone has to walk the same way.
@@ -93,7 +97,7 @@ Jasper sent me a post from someone on Instagram yesterday, it says:
 > I love laughing with you, I love working with you, I love walking with you, I love talking with you, and I also love just existing with you, me being me and you being you.
 
 
-We've been together for 4 years now, every day of our life feels like a river, quiet, nurturing and everlasting. He is everything I am not, and though the time trickling between and around us, from him, I learned kindness, sympathy, and contentment. We own two indoor cats, one black long hair girl called “Lilith” and one ginger boy "Lucifer" (Lucy for short). Jasper being the proud father is very protective of these two children.
+We've been together for 4 years now, every day of our life feels like a river, quiet, nurturing and everlasting. He is everything I am not, and though the time trickling between and around us, from him, I learned kindness, sympathy, and contentment. We own two indoor cats, one black long hair girl called “Lilith” and one ginger boy “Lucifer” (Lucy for short). Jasper being the proud father is very protective of these two children.
 
 
 
@@ -113,11 +117,15 @@ Hopefully China is going to open up this year, I would love to go back to see my
 
 
 
-I would also push the business idea to see if it'll go anywhere.
+I would also push the business idea to see if it'll go anywhere. 
 
 
 
-Maybe asking the world to be a better (not so crazy) place this year is a bit outstretched, so I wish everyone around me, my friends and family, good health and best of luck. People in London, hit me up and let's grab a beer or coffee!
+Reading is what I strongly advocate for anyone, recently I haven't been reading much, but I would love to get back in the habit of reading more (this time maybe more fictions than non-fictions).
+
+
+
+Perhaps asking the world to be a better (not so crazy) place this year is a bit outstretched, so I wish everyone around me, my friends and family, good health and best of luck. People in London, hit me up and let's grab a beer or coffee!
 
 
 
