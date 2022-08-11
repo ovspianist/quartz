@@ -1,7 +1,7 @@
 ---
 title: Currently Reading
 publishdate: 2022-07-13T17:36:13
-lastmod: 2022-08-07T15:07:41
+lastmod: 2022-08-11T00:19:55
 tags: 
 - list
 ---
