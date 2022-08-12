@@ -1,7 +1,7 @@
 ---
 title: Random Thoughts
 publishdate: 2022-08-06T19:29:18
-lastmod: 2022-08-11T00:02:36
+lastmod: 2022-08-12T12:21:02
 tags: 
 - 
 ---
@@ -25,6 +25,12 @@ tags:
 
 
 [[Granularity of Cognition]]
+
+
+
+[[test page]]
+
+
 
 
 
