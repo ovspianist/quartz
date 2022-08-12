@@ -89,6 +89,8 @@ blockquote[class*="-callout"] {
     margin: 0;
     color: var(--gray);
     font-weight: 300 !important;
+    // tron style
+    // font-size: 80%;
     &:first-child {
       font-weight: 600 !important;
       color: var(--dark);
