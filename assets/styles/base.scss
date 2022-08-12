@@ -353,6 +353,9 @@ article {
     text-decoration-color: var(--secondary);
     text-underline-offset: 10px;
     text-decoration-thickness: 2px;
+    @media all and (max-width: 768px) {
+      font-size: large;
+    }
   }
 
   & p > a {
@@ -404,6 +407,9 @@ article {
     text-align: justify;
     //word-break: break-all;
     hyphens: auto;
+    @media all and (max-width: 768px) {
+      font-size: small;
+    }
   }
 
   & .img-container{
