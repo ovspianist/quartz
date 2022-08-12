@@ -1,5 +1,7 @@
 ---
 title: After Effects Tips and Tricks
+publishdate: 2022-07-19T08:55:53+01:00
+lastmod: 2022-08-07T01:53:54+01:00
 tags: 
 - ref
 ---

@@ -1,5 +1,7 @@
 ---
 title: Everything is not and Not everything is
+publishdate: 2022-07-21T15:32:41+01:00
+lastmod: 2022-08-06T21:59:57+01:00
 tags: 
 - idea
 - language

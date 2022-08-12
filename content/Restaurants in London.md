@@ -1,7 +1,7 @@
 ---
 title: Restaurants in London
-publishdate: 2022-08-04T19:12:30
-lastmod: 2022-08-10T18:27:09
+publishdate: 2022-08-04T19:12:30+01:00
+lastmod: 2022-08-10T18:27:09+01:00
 tags: 
 - list
 - london

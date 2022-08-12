@@ -1,5 +1,7 @@
 ---
 title: Becoming the 3 Pct
+publishdate: 2022-08-06T19:25:44+01:00
+lastmod: 2022-08-06T19:25:44+01:00
 tags: 
 - trading
 ---

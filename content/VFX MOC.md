@@ -1,5 +1,7 @@
 ---
 title: VFX MOC
+publishdate: 
+lastmod: 2022-08-07T01:58:19+01:00
 tags: 
 - moc
 ---

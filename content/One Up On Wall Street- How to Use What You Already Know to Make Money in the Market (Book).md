@@ -1,5 +1,7 @@
 ---
 title: One Up On Wall Street- How to Use What You Already Know to Make Money in the Market (Book)
+publishdate: 2022-08-07T14:58:11+01:00
+lastmod: 2022-08-07T15:03:53+01:00
 tags: 
 - book
 - book

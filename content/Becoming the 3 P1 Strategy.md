@@ -1,5 +1,7 @@
 ---
 title: Becoming the 3 P1 Strategy
+publishdate: 2022-08-06T19:26:34+01:00
+lastmod: 2022-08-06T19:26:34+01:00
 tags: 
 - 
 ---

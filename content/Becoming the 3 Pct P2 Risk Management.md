@@ -1,5 +1,7 @@
 ---
 title: Becoming the 3 Pct P2 Risk Management
+publishdate: 2022-08-06T19:26:53+01:00
+lastmod: 2022-08-06T19:26:53+01:00
 tags: 
 - trading
 ---

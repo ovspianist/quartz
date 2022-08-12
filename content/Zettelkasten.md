@@ -1,5 +1,7 @@
 ---
 title: Zettelkasten
+publishdate: 2022-08-06T19:24:08+01:00
+lastmod: 2022-08-06T19:24:08+01:00
 tags: 
 - 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Coding
-publishdate: 2022-08-06T19:02:36
-lastmod: 2022-08-10T23:54:02
+publishdate: 2022-08-06T19:02:36+01:00
+lastmod: 2022-08-10T23:54:02+01:00
 tags: 
 - evergreen
 ---

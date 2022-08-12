@@ -1,5 +1,7 @@
 ---
 title: Obsidian
+publishdate: 2022-07-11T19:20:03+01:00
+lastmod: 2022-08-07T00:47:36+01:00
 tags: 
 - app
 ---

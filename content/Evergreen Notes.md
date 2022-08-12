@@ -1,5 +1,7 @@
 ---
 title: Evergreen Notes
+publishdate: 2022-08-06T19:22:27+01:00
+lastmod: 2022-08-06T19:22:27+01:00
 tags: 
 - 
 ---

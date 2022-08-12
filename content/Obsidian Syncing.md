@@ -1,7 +1,9 @@
 ---
 title: Obsidian Syncing
+publishdate: 2022-07-12T16:44:51+01:00
+lastmod: 2022-08-07T00:32:40+01:00
 tags: 
-- article
+- guide
 ---
 
 

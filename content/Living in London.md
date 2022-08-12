@@ -1,5 +1,7 @@
 ---
 title: Living in London
+publishdate: 2022-08-08T18:32:55+01:00
+lastmod: 2022-08-08T18:32:55+01:00
 tags: 
 - evergreen
 - london

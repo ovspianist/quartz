@@ -1,7 +1,7 @@
 ---
 title: Trading
-publishdate: 2022-08-06T19:25:25
-lastmod: 2022-08-10T23:56:13
+publishdate: 2022-08-06T19:25:25+01:00
+lastmod: 2022-08-10T23:56:13+01:00
 tags: 
 - trading
 ---

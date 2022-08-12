@@ -1,5 +1,7 @@
 ---
 title: The Story of Art (Book)
+publishdate: 2022-08-07T14:59:20+01:00
+lastmod: 2022-08-07T15:03:53+01:00
 tags: 
 - book
 - book

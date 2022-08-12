@@ -1,7 +1,7 @@
 ---
 title: Personal Updates
-publishdate: 2022-08-07T02:25:57
-lastmod: 2022-08-11T00:18:45
+publishdate: 2022-08-07T02:25:57+01:00
+lastmod: 2022-08-11T00:18:45+01:00
 tags: 
 - evergreen
 ---

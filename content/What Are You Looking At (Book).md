@@ -1,5 +1,7 @@
 ---
 title: What Are You Looking At (Book)
+publishdate: 2022-07-18T15:29:31+01:00
+lastmod: 2022-08-06T19:33:09+01:00
 tags: 
 - book
 - book

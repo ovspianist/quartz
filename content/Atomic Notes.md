@@ -1,7 +1,7 @@
 ---
 title: Atomic Notes
-publishdate: 2022-08-06T19:02:30
-lastmod: 2022-08-10T16:54:59
+publishdate: 2022-08-06T19:02:30+01:00
+lastmod: 2022-08-10T16:54:59+01:00
 tags: 
 - 
 ---

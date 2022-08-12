@@ -1,5 +1,7 @@
 ---
 title: Creativity
+publishdate: 2022-08-06T19:24:41+01:00
+lastmod: 2022-08-06T19:24:41+01:00
 tags: 
 - 
 ---

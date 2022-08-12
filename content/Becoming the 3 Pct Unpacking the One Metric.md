@@ -1,5 +1,7 @@
 ---
 title: Becoming the 3 Pct Unpacking the One Metric
+publishdate: 2022-08-06T19:26:08+01:00
+lastmod: 2022-08-06T19:26:08+01:00
 tags: 
 - trading
 ---

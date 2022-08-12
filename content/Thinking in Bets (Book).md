@@ -1,5 +1,7 @@
 ---
 title: Thinking in Bets (Book)
+publishdate: 2022-07-18T15:24:28+01:00
+lastmod: 2022-08-06T19:32:15+01:00
 tags: 
 - book
 - book
