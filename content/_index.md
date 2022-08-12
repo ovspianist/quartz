@@ -35,7 +35,7 @@ Pretty much all the pages you could find here are considered as work in progress
 
 
 
-- I just turned 32, here's what I think of [[Turning 32]].
+I just turned 32, here's what I think of [[Turning 32]].
 
 
 
@@ -53,7 +53,7 @@ I am a big fan of [[Productivity]] and [[Creativity]] in general, but I have a f
 
 
 
-Thoughts about [[Trading]] and some other [[Random Thoughts]]
+Thoughts about [[Trading]] and some other [[Random Thoughts]].
 
 
 
