@@ -1,7 +1,7 @@
 ---
 title: Turning 32
 publishdate: 2022-08-11T13:46:00
-lastmod: 2022-08-11T17:01:51
+lastmod: 2022-08-12T11:46:00
 tags: 
 - letter
 ---
@@ -62,16 +62,12 @@ A new documentary series about ILM was released on Disney+ couple of days ago, b
 
 
 
-> ILM was the place. A “Let's do something no one has ever seen before” attitude.
-> 
->  -Robert Zemeckis
+> ILM was the place. A “Let's do something no one has ever seen before” attitude.<br>-Robert Zemeckis
 
 
 And another quote from a former president of the company:
 
-> Just because it hasn't been done doesn't mean it can't be.
->  
-> -Lynwen Brennan
+> Just because it hasn't been done doesn't mean it can't be.<br>-Lynwen Brennan
 
 
 These were the reasons I was attracted to the studio and the industry, in some way, I was a bit like that to begin with. The idea of dropping out of high school and pursuing my dream, was kind of what I considered not a bold move, but the only sensible one. Not everyone has to walk the same way.
