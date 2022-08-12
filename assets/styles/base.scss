@@ -24,6 +24,11 @@
 // typography
 html {
   scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -o-font-smoothing: antialiased;
+  // text-shadow: rgba(0,0,0,0.02) 1px 1px 1px;
 
   &:lang(ar) {
     & p, & h1, & h2, & h3, article {
