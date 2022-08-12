@@ -1,7 +1,7 @@
 ---
 title: Obsidian
 publishdate: 2022-07-11T19:20:03+01:00
-lastmod: 2022-08-07T00:47:36+01:00
+lastmod: 2022-08-12T16:13:14+01:00
 tags: 
 - app
 ---
@@ -27,6 +27,12 @@ This page is dedicated for information about how to use Obsidian to fit my perso
 [[Obsidian Callout Types]]
 
 
+
+## ✔ To Do 
+
+
+
+TODO:: - $ build a tool for easily importing film entries.
 
 
 

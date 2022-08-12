@@ -1,7 +1,7 @@
 ---
 title: Unreal Engine
 publishdate: 2022-07-12T10:28:59+01:00
-lastmod: 2022-08-11T00:05:59+01:00
+lastmod: 2022-08-12T15:48:05+01:00
 tags: 
 - app
 - vfx
@@ -31,17 +31,13 @@ Unreal Engine is a real-time engine for [[Game]], [[VFX]] and [[Live Stage]] ind
 
 [[Unreal Lighting and Rendering]]
 
-
-
 [[Unreal Plugins]]
-
-
 
 [[Unreal Tips and Tricks]]
 
-
-
 [[Blueprints System]]
+
+
 
 
 
@@ -49,7 +45,7 @@ Unreal Engine is a real-time engine for [[Game]], [[VFX]] and [[Live Stage]] ind
 
 
 
-
+[Asher.GG | git gud together](http://asher.gg/)
 
 
 
