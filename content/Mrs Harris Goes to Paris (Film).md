@@ -1,7 +1,7 @@
 ---
 title: Mrs Harris Goes to Paris (Film)
 publishdate: 2022-08-12T17:01:33+01:00
-lastmod: 2022-08-12T17:03:45+01:00
+lastmod: 2022-08-12T18:30:50+01:00
 tags: 
 - film
 - film
@@ -38,8 +38,6 @@ A widowed cleaning lady in 1950s London falls madly in love with a couture Dior 
 
 
  It's the smallest affair of the smallest character you can imagine, but that doesn't stop the film sucking you in with authentic emotions. Mrs. Harris is the kindest person you'll ever meet, literally to a fault, I think we all know someone like her at least once in our lives. Despite being hurt by people, **somehow they still hold the best intention towards everyone** they meet. Well, I do hope life could be like these films, eventually they get to taste the sweet fruit of reciprocation they deserve.   
-
-
 
 
 

@@ -29,6 +29,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -o-font-smoothing: antialiased;
   // text-shadow: rgba(0,0,0,0.02) 1px 1px 1px;
+  
 
   &:lang(ar) {
     & p, & h1, & h2, & h3, article {
@@ -308,8 +309,6 @@ blockquote {
 
 article {
 
-
-
   & > h1 {
     margin-top: 3em;
     font-size: 2.8em;
@@ -411,11 +410,13 @@ article {
     text-align: justify;
     //word-break: break-all;
     hyphens: auto;
+
     @media all and (max-width: 768px) {
       font-size: small;
       line-height: 1.75em;
       margin-bottom: 1.25rem;
       text-align: start;
+
     }
   }
 
@@ -436,6 +437,13 @@ article {
     text-indent: 0;
     margin-top: 0;
     margin-bottom: 0.5em;
+  }
+
+  & blockquote p {
+    font-size: smaller !important;
+    @media all and (max-width: 768px) {
+      font-size: small !important;
+    }
   }
 }
 
@@ -575,9 +583,11 @@ hr {
   gap: 2em;
   
   & h3{
+    margin-bottom: 0;
     margin-top: 0;
-
+    // text-transform: uppercase;
   }
+
     // tron style
   @media all and (min-width: 1201px) {
     flex-direction: column;
@@ -662,17 +672,19 @@ hr {
   }
   & i {
     color: var(--dark);
-    font-size: x-large;
+    font-size: large;
 
   }
 
   & #graph-title{
     display: flex;
     flex-direction: row;
-    justify-items: left;
+    // justify-items: left;
     align-items: center;
     justify-content: space-between;
     width: 100%;
+
+
   }
 
   & #graph-button-open {
