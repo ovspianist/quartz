@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[What Are You Looking At?: 150 Years of Modern Art in a Nutshell (Book)|What Are You Looking At?: 150 Years of Modern Art in a Nutshell]]
-
 
 
 ![Cover|300](https://images-na.ssl-images-amazon.com/images/I/61XszgtCjqL._SX323_BO1,204,203,200_.jpg)
@@ -39,11 +37,11 @@ Every year, millions of museum and gallery visitors ponder the modern art on dis
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 
-PROGRESS:: reading
+ reading
 
 
 

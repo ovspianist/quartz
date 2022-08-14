@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[Kraftwerk: Future Music from Germany (Book)|Kraftwerk: Future Music from Germany]]
-
 
 
 ![Cover|300](http://books.google.com/books/content?id=SIxPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
@@ -35,7 +33,7 @@ tags:
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 

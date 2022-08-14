@@ -16,8 +16,6 @@ tags:
 
 
 
-
-
 # Becoming the 3% - Unpacking the One Metric
 
 

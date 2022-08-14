@@ -16,8 +16,6 @@ tags:
 
 
 
-
-
 ## **The game of probability**
 
 

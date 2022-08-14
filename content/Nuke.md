@@ -12,8 +12,6 @@ tags:
 
 
 
-
-
 Nuke is a node based compositing software for film and TV production by [[The Foundry]] .
 
 

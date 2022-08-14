@@ -13,8 +13,6 @@ tags:
 
 
 
-
-
 There is an interesting grammar variant in English that has caused me confusion. When you want to express the statement that "everything is green" is not true, how do you say it?
 
 

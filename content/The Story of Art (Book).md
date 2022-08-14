@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[The Story of Art (Book)|The Story of Art]]
-
 
 
 ![Cover|300](http://books.google.com/books/content?id=CECSU2MRH4QC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
@@ -35,7 +33,7 @@ The Story of Art, one of the most famous and popular books on art ever written, 
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 

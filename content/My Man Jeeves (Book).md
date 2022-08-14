@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[My Man Jeeves (Book)|My Man Jeeves]]
-
 
 
 ![Cover|300](http://books.google.com/books/content?id=o81EPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
@@ -35,7 +33,7 @@ Who can forget our beloved gentleman's personal gentleman, Jeeves, who ever come
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 

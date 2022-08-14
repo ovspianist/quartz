@@ -14,8 +14,6 @@ tags:
 
 
 
-
-
 A series of articles on how to become the 3% of people who actually make consistent profit in the financial market.
 
 

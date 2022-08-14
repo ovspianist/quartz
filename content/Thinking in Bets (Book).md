@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts (Book)|Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts]]
-
 
 
 ![Cover|300](https://images-na.ssl-images-amazon.com/images/I/41+XSyDaQeL._SX329_BO1,204,203,200_.jpg)
@@ -35,11 +33,11 @@ In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversi
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 
-PROGRESS:: reading
+ reading
 
 
 

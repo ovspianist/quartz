@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[B is for Bauhaus (Book)|B is for Bauhaus]]
-
 
 
 ![Cover|300](http://books.google.com/books/content?id=ye05bwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
@@ -35,7 +33,7 @@ This book is not a dictionary, though it tells you all you need know about every
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 

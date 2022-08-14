@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[The Book of Barely Imagined Beings (Book)|The Book of Barely Imagined Beings: A 21st Century Bestiary]]
-
 
 
 ![Cover|300](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358299908l/13562662.jpg)
@@ -35,11 +33,11 @@ From the Axolotl to the Zebrafish, our planet contains a host of barely imagined
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 
-PROGRESS:: reading
+ reading
 
 
 

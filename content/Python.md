@@ -12,8 +12,6 @@ tags:
 
 
 
-
-
 Python is a human understandable scripting language for fast and easy tasks, it might not be the fastest, but it's very easy to understand and get things done.
 
 

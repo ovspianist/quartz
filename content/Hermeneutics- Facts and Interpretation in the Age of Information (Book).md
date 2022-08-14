@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[Hermeneutics: Facts and Interpretation in the Age of Information (Book)|Hermeneutics: Facts and Interpretation in the Age of Information]]
-
 
 
 ![Cover|300]()
@@ -35,7 +33,7 @@ Is anything ever not an interpretation? Does interpretation go all the way down?
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 

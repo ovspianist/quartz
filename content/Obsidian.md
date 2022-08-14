@@ -12,8 +12,6 @@ tags:
 
 
 
-
-
 This page is dedicated for information about how to use Obsidian to fit my personal knowledge management system.
 
 
@@ -32,7 +30,7 @@ This page is dedicated for information about how to use Obsidian to fit my perso
 
 
 
-TODO:: - $ build a tool for easily importing film entries.
+ - $ build a tool for easily importing film entries.
 
 
 

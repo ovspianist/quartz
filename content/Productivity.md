@@ -14,8 +14,6 @@ tags:
 
 
 
-
-
 We live in a world of constant information overload, how do we live and work in a way that's both effective and manageable? 
 
 
