@@ -31,6 +31,16 @@ Pretty much all the pages you could find here are considered as work in progress
 >  Join my Discord chatroom :   [Chuang Rambles](https://discord.gg/DFXMeMZCUA)
 
 
+
+
+Not everything interesting can be categorized into pages, if you would like to join my inner circles, I would share with you my most recent findings and thoughts. Join below:
+
+<iframe src="https://niuthinking.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
 ## Just Planted
 
 
@@ -69,7 +79,7 @@ Being a foodie, I spend most of my outdoor time eating in restaurants, here are 
 
 
 
-If you're curious what I am doing these days, check out [[Personal Updates]]
+If you're curious what I am doing these days, check out [[Personal Updates]].
 
 
 
