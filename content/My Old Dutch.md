@@ -1,7 +1,7 @@
 ---
 title: My Old Dutch
 publishdate: 2022-08-13T12:44:43+01:00
-lastmod: 2022-08-13T12:44:50+01:00
+lastmod: 2022-08-14T18:01:12+01:00
 tags: 
 - place
 ---
@@ -14,11 +14,17 @@ tags:
 
 
 
+![img](https://myolddutch.com/wp-content/uploads/2022/01/MOD_WebHero_NewHolborn-Desktop2.jpg)
+
+
+
 ## 📝 Notes
 
 
 
-Took about 45 minutes before our order came, quite slow. 
+Sometimes service could be slow, last time I went there on a Saturday lunchtime, took about 45 minutes before our order came.
+
+
 
 
 
