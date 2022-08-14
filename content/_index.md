@@ -35,9 +35,7 @@ Pretty much all the pages you could find here are considered as work in progress
 
 Not everything interesting can be categorized into pages, if you would like to join my inner circles, I would share with you my most recent findings and thoughts. Join below:
 
-<iframe src="https://niuthinking.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
-
+<iframe src="https://niuthinking.substack.com/embed" width="100%" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
 
