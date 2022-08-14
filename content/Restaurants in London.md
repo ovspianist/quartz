@@ -1,7 +1,7 @@
 ---
 title: Restaurants in London
 publishdate: 2022-08-04T19:12:30+01:00
-lastmod: 2022-08-10T18:27:09+01:00
+lastmod: 2022-08-14T19:38:11+01:00
 tags: 
 - list
 - london
@@ -45,7 +45,7 @@ tags:
 
 
 
-[[The Delaunay]] and [[Balthazar]] Interesting interiors and ambience.
+[[Balthazar]] Interesting interiors and ambience.
 
 
 
@@ -128,6 +128,10 @@ tags:
 
 
 [[Master Wei Xi'An]] Chinese Shanxi noodles and other local dishes.
+
+
+
+[[The Delaunay]] Austrian food, decorated with a 1920s style.
 
 
 
