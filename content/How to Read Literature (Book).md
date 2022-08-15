@@ -11,8 +11,6 @@ tags:
 
 
 
-# [[How to Read Literature (Book)|How to Read Literature]]
-
 
 
 ![Cover|300](http://books.google.com/books/content?id=XZKlNyV4fyUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -35,7 +33,7 @@ What makes a work of literature good or bad? How freely can the reader interpret
 
 
 
-### ✏ Review
+## ✏ Review
 
 
 
@@ -43,4 +41,3 @@ What makes a work of literature good or bad? How freely can the reader interpret
 
 
 
----

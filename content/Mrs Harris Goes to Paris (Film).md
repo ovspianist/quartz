@@ -1,7 +1,7 @@
 ---
 title: Mrs Harris Goes to Paris (Film)
 publishdate: 2022-08-12T17:01:33+01:00
-lastmod: 2022-08-12T18:30:50+01:00
+lastmod: 2022-08-15T10:14:24+01:00
 tags: 
 - film
 - film
@@ -13,7 +13,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 🎬 Director: [[@Anthony Fabian]] <br> 🎭 Genre: comedy, drama <br> 💿 IMDB: https://www.imdb.com/title/tt5151570 <br> 
+ > 🤔 My Rating: 💙💙💙💙🖤 <br> 🎬 Director: [[@Anthony Fabian]] <br> 🎭 Genre: comedy, drama <br> 💿 IMDB: https://www.imdb.com/title/tt5151570 <br> 
 
 ![Poster|300](https://m.media-amazon.com/images/M/MV5BY2UyOWJjMWEtNmIwYS00ZjM5LWEyYjMtMTI4NDBhMzViNmIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg)
 

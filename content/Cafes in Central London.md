@@ -11,9 +11,9 @@ tags:
 
 
 
-
-
-
+> [!success] Info 
+ > 
+ > 📌 Location: London, UK <br> 
 
 I love working and reading in a cafe, people chatting in the background makes me easy to focus on the tasks at hand.
 

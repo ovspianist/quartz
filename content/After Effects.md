@@ -12,8 +12,6 @@ tags:
 
 
 
-
-
 [[After Effects bug about effects pane]]
 
 

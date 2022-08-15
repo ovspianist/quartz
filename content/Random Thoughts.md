@@ -1,12 +1,10 @@
 ---
 title: Random Thoughts
 publishdate: 2022-08-06T19:29:18+01:00
-lastmod: 2022-08-12T13:34:36+01:00
+lastmod: 2022-08-15T10:14:20+01:00
 tags: 
 - 
 ---
-
-
 
 
 

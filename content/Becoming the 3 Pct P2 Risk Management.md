@@ -16,8 +16,6 @@ tags:
 
 
 
-
-
 # Becoming the 3% – Part 2 – Risk Management
 
 

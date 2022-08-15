@@ -16,8 +16,6 @@ tags:
 
 
 
-
-
 - ? To replace a layer with another footage from media binary 
 
 	- ~ Alt + Drag over selected layer.

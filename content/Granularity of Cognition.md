@@ -13,8 +13,6 @@ tags:
 
 
 
-
-
 Language starts with words, then phrases, then sentence structure then complex structure, then connection between sentences, the paragraphs, then structure of a whole piece.
 
 
