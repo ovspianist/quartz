@@ -29,7 +29,8 @@
         {{partial "toc.html" .}} {{partial "textprocessing.html" . }} {{if
         $.Site.Data.config.enableRecentNotes}} {{partial "recent.html" . }} {{end}}
       </article>
-      {{partial "footerIndex.html" .}}
+      <hr />
+      {{partial "newsletter-signup.html" .}} {{partial "footerIndex.html" .}}
     </div>
   </body>
 </html>

@@ -26,16 +26,18 @@ Pretty much all the pages you could find here are considered as work in progress
 
 
 
+If a page reaches a level of maturity, it would be selected and included in my newsletter, together with other related info and insider news, and sent to our email newsletter subscribers. There you can comment and chat about the content, and potentially make some new friends. 
+
+
+
+You can find the subscribe link at the bottom of a page.
+
+
+
 > [!success] Discord
 > 
 >  Join my Discord chatroom :   [Chuang Rambles](https://discord.gg/DFXMeMZCUA)
 
-
-
-
-Not everything interesting can be categorized into pages, if you would like to join my inner circles, I would share with you my most recent findings and thoughts. Join below:
-
-<iframe src="https://niuthinking.substack.com/embed" width="100%" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
 
