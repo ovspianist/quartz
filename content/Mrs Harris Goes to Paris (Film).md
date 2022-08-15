@@ -1,11 +1,7 @@
 ---
 title: Mrs Harris Goes to Paris (Film)
 publishdate: 2022-08-12T17:01:33+01:00
-<<<<<<< HEAD
 lastmod: 2022-08-15T10:14:24+01:00
-=======
-lastmod: 2022-08-14T17:40:03+01:00
->>>>>>> 076530d4706f2c2170e755f89eab2eff4e319d42
 tags: 
 - film
 - film

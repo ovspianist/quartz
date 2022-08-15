@@ -1,11 +1,7 @@
 ---
 title: Happy Lamb Hot Pot
 publishdate: 2022-08-14T19:37:55+01:00
-<<<<<<< HEAD
 lastmod: 2022-08-15T10:14:21+01:00
-=======
-lastmod: 2022-08-14T19:38:30+01:00
->>>>>>> 076530d4706f2c2170e755f89eab2eff4e319d42
 tags: 
 - place
 ---
@@ -16,11 +12,7 @@ tags:
 
 > [!success] Info 
  > 
-<<<<<<< HEAD
  > 🤔 My Rating: 💙💙💙💙🖤 <br> 📌 Location: 2 New Oxford St, London WC1A 1AD <br> 
-=======
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 📌 Location: 2 New Oxford St, London WC1A 1AD <br> 
->>>>>>> 076530d4706f2c2170e755f89eab2eff4e319d42
 
 ![img](https://happylambuk.com/wp-content/uploads/happy-lamb-gallery-footer-3.jpg)
 

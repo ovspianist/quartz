@@ -1,11 +1,7 @@
 ---
 title: The Delaunay
 publishdate: 2022-08-12T11:35:25+01:00
-<<<<<<< HEAD
 lastmod: 2022-08-15T10:14:20+01:00
-=======
-lastmod: 2022-08-14T17:40:03+01:00
->>>>>>> 076530d4706f2c2170e755f89eab2eff4e319d42
 tags: 
 - place
 ---
@@ -16,11 +12,7 @@ tags:
 
 > [!success] Info 
  > 
-<<<<<<< HEAD
  > 🤔 My Rating: 💙💙💙💙🖤 <br> 📌 Location: 55 Aldwych, London WC2B 4BB <br> 👍 Recommended By: [[B is for Bauhaus (Book)]] <br> 
-=======
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 📌 Location: 55 Aldwych, London WC2B 4BB <br> 👍 Recommended By: [[B is for Bauhaus (Book)]] <br> 
->>>>>>> 076530d4706f2c2170e755f89eab2eff4e319d42
 
 ![img](https://resizer.otstatic.com/v2/photos/wide-huge/1/25107659.jpg)
 
