@@ -12,7 +12,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💙💙💙🖤🖤 <br> 📌 Location: 131-132 High Holborn, London WC1V 6PS, United Kingdom <br> 
+ > 🤔 My Rating: 💚💚💚🖤🖤 <br> 📌 Location: 131-132 High Holborn, London WC1V 6PS, United Kingdom <br> 
 
 ![img](https://myolddutch.com/wp-content/uploads/2022/01/MOD_WebHero_NewHolborn-Desktop2.jpg)
 

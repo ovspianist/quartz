@@ -12,7 +12,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💙💙💙💙🖤 <br> 📌 Location: 31-32 Poland St, London W1F 8QT <br> 
+ > 🤔 My Rating: 💚💚💚💚🖤 <br> 📌 Location: 31-32 Poland St, London W1F 8QT <br> 
 
 ![img](https://media-cdn.tripadvisor.com/media/photo-s/1a/62/a9/95/arirang.jpg)
 
