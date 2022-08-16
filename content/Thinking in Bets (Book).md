@@ -21,6 +21,28 @@ tags:
 
 
 
+Quality of decision doesn't equate to results
+
+
+
+Dissent channel
+
+
+
+Temporal discounting, future self
+
+
+
+scientist betting on paper
+
+
+
+regret: adding second stupidity to the first stupidity 尼采
+
+
+
+
+
 
 
 
