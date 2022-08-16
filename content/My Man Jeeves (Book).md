@@ -1,7 +1,7 @@
 ---
 title: My Man Jeeves (Book)
 publishdate: 2022-08-07T14:58:26+01:00
-lastmod: 2022-08-07T15:03:53+01:00
+lastmod: 2022-08-16T10:10:34+01:00
 tags: 
 - book
 - book
@@ -13,7 +13,7 @@ tags:
 
 
 
-![Cover|300](http://books.google.com/books/content?id=o81EPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![Cover|300](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348915558l/200572.jpg)
 
 
 

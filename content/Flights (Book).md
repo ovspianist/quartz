@@ -1,7 +1,7 @@
 ---
 title: Flights (Book)
 publishdate: 2022-08-07T14:59:35+01:00
-lastmod: 2022-08-07T15:03:53+01:00
+lastmod: 2022-08-16T10:13:58+01:00
 tags: 
 - book
 - book
@@ -13,7 +13,7 @@ tags:
 
 
 
-![Cover|300](http://books.google.com/books/content?id=rS5lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![Cover|300](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512417961l/36885304.jpg)
 
 
 

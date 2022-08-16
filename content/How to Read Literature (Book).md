@@ -1,7 +1,7 @@
 ---
 title: How to Read Literature (Book)
 publishdate: 2022-08-07T14:59:07+01:00
-lastmod: 2022-08-07T15:03:53+01:00
+lastmod: 2022-08-16T10:12:55+01:00
 tags: 
 - book
 - book
@@ -13,7 +13,7 @@ tags:
 
 
 
-![Cover|300](http://books.google.com/books/content?id=XZKlNyV4fyUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![Cover|300](https://m.media-amazon.com/images/I/41qT-a8h6CL.jpg)
 
 
 

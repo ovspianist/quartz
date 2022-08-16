@@ -1,7 +1,7 @@
 ---
 title: Maybe You Should Talk to Someone- A Therapist, Her Therapist, and Our Lives Revealed (Book)
 publishdate: 2022-08-07T14:58:52+01:00
-lastmod: 2022-08-07T15:03:53+01:00
+lastmod: 2022-08-16T10:12:10+01:00
 tags: 
 - book
 - book
@@ -13,7 +13,7 @@ tags:
 
 
 
-![Cover|300](http://books.google.com/books/content?id=ATKQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![Cover|300](https://images-na.ssl-images-amazon.com/images/I/41dABwfpV-L._SX329_BO1,204,203,200_.jpg)
 
 
 

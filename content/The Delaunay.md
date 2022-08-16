@@ -1,7 +1,7 @@
 ---
 title: The Delaunay
 publishdate: 2022-08-12T11:35:25+01:00
-lastmod: 2022-08-15T10:14:20+01:00
+lastmod: 2022-08-16T19:44:54+01:00
 tags: 
 - place
 ---
