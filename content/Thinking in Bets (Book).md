@@ -1,7 +1,7 @@
 ---
 title: Thinking in Bets (Book)
 publishdate: 2022-07-18T15:24:28+01:00
-lastmod: 2022-08-16T10:01:20+01:00
+lastmod: 2022-08-17T10:53:29+01:00
 tags: 
 - book
 - book
@@ -18,32 +18,6 @@ tags:
 
 
 ## 📝 Notes
-
-
-
-Quality of decision doesn't equate to results
-
-
-
-Dissent channel
-
-
-
-Temporal discounting, future self
-
-
-
-scientist betting on paper
-
-
-
-regret: adding second stupidity to the first stupidity 
-
-[[Nietzsche on Regret]]
-
-
-
-Path dependent 
 
 
 
@@ -64,6 +38,8 @@ In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversi
 
 
  reading
+
+
 
 
 
