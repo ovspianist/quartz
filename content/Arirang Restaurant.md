@@ -1,7 +1,7 @@
 ---
 title: Arirang Restaurant
 publishdate: 2022-08-15T22:41:42+01:00
-lastmod: 2022-08-15T22:41:47+01:00
+lastmod: 2022-08-25T15:54:11+01:00
 tags: 
 - place
 ---

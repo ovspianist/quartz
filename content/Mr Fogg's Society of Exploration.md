@@ -1,7 +1,7 @@
 ---
 title: Mr Fogg's Society of Exploration
 publishdate: 2022-08-16T22:45:00+01:00
-lastmod: 2022-08-16T22:45:00+01:00
+lastmod: 2022-08-25T15:53:18+01:00
 tags: 
 - place
 - london

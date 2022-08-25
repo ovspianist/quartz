@@ -1,7 +1,7 @@
 ---
 title: Kraftwerk- Future Music from Germany (Book)
 publishdate: 2022-08-07T14:58:39+01:00
-lastmod: 2022-08-16T10:11:38+01:00
+lastmod: 2022-08-25T15:53:28+01:00
 tags: 
 - book
 - book

@@ -1,7 +1,7 @@
 ---
 title: Hermeneutics- Facts and Interpretation in the Age of Information (Book)
 publishdate: 2022-08-07T14:59:47+01:00
-lastmod: 2022-08-16T10:14:18+01:00
+lastmod: 2022-08-25T15:53:32+01:00
 tags: 
 - book
 - book
