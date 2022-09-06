@@ -1,7 +1,7 @@
 ---
 title: Unreal Engine
 publishdate: 2022-07-12T10:28:59+01:00
-lastmod: 2022-08-15T10:14:20+01:00
+lastmod: 2022-09-06T17:29:50+01:00
 tags: 
 - app
 - vfx
@@ -37,6 +37,14 @@ Unreal Engine is a real-time engine for [[Game]], [[VFX]] and [[Live Stage]] ind
 
 
 
+## Topics
+
+[[Unreal Shading]]
+
+[[Unreal Water]]
+
+
+
 
 
 ## 🗂 Resources 
@@ -62,8 +70,6 @@ https://www.youtube.com/c/SmartPoly
 https://www.youtube.com/c/unfgames
 
 https://www.youtube.com/c/DevEnabled
-
-
 
 
 
