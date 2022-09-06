@@ -96,7 +96,7 @@ Maybe there were many Chinese people visiting Venice? I had no idea.
 
 
 
-## [[Treviso]]
+## Treviso
 
 
 
@@ -160,7 +160,7 @@ All right, time for Google. After hearing the robotic Italian from my phone, her
 
 
 
-## Oxygen
+## Haunted House
 
 
 
@@ -192,7 +192,7 @@ My room was slightly underground, a bit damp, but manageable.
 
 
 
-Sleeping without J was difficult, but a cricket came in my room, and stayed with me the whole night.
+Sleeping without J was difficult, but after I turned off the lights, a cricket came in my room, and stayed with me the whole night.
 
 
 
