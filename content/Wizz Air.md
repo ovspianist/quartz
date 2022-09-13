@@ -1,7 +1,7 @@
 ---
 title: Wizz Air
 publishdate: 2022-09-06T23:45:00+01:00
-lastmod: 2022-09-06T23:45:00+01:00
+lastmod: 2022-09-07T10:48:07+01:00
 tags: 
 - company
 ---

@@ -1,7 +1,7 @@
 ---
 title: Travelling to Italy - Day 1
 publishdate: 2022-09-06T19:46:45+01:00
-lastmod: 2022-09-06T23:12:08+01:00
+lastmod: 2022-09-07T10:48:07+01:00
 tags: 
 - journal
 ---

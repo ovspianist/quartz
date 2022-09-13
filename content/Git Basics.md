@@ -1,7 +1,7 @@
 ---
 title: Git Basics
 publishdate: 2022-07-18T23:19:38+01:00
-lastmod: 2022-08-09T10:23:05+01:00
+lastmod: 2022-09-08T06:24:47+01:00
 tags: 
 - ref
 ---
