@@ -1,7 +1,7 @@
 ---
 title: Some Kind of Peace - Olafur Arnolds
 publishdate: 2022-09-19T15:47:12+01:00
-lastmod: 2022-09-19T18:07:09+01:00
+lastmod: 2022-09-19T20:36:12+01:00
 tags: 
 - show
 ---
@@ -10,7 +10,9 @@ tags:
 
 
 
-
+> [!success] Info 
+ > 
+ > 🤔 My Rating: 💚💚💚🖤🖤 <br> 
 
 
 
