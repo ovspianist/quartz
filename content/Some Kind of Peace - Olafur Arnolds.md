@@ -60,6 +60,8 @@ Loom is where he collaborated with [[@Bonobo]], another electronic artist I quit
 
 
 
+![img](https://i.imgur.com/Kvsa1cE.jpg)
+
 
 
 ## Glitches
@@ -81,6 +83,8 @@ The family sitting in front of us, all the children behave like responsible adul
 Another woman sitting next to them, completely unrelated to them, for every few minutes she tried to take a photo of the show, and for some reason she cannot turn off the bloody flashlight and every time she was surprised by the sudden beam of light shooting out of her phone. No matter how many times she annoyed people around her, she kept trying.
 
 
+
+![img](https://i.imgur.com/B1UGRMf.jpg)
 
 
 
@@ -111,6 +115,8 @@ For her last moments, Olafur sat next to her bed in the hospital and listened to
 Then he turned back to his upright piano on the stage, quietly and lovingly, played this last song of the night, Lag Fyrir Ommu.
 
 
+
+![img](https://i.imgur.com/NIotdfw.jpg)
 
 
 
