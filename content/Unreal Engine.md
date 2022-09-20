@@ -1,7 +1,7 @@
 ---
 title: Unreal Engine
 publishdate: 2022-07-12T10:28:59+01:00
-lastmod: 2022-09-07T10:48:06+01:00
+lastmod: 2022-09-16T12:17:08+01:00
 tags: 
 - app
 - vfx
@@ -70,6 +70,20 @@ https://www.youtube.com/c/SmartPoly
 https://www.youtube.com/c/unfgames
 
 https://www.youtube.com/c/DevEnabled
+
+
+
+[gameDev Outpost](https://www.youtube.com/channel/UC3Yf1SuYLc5WdChEgXRA6OQ)
+
+
+
+
+
+### Playlists
+
+[Unreal Engine 4 by gameDev Outpost](https://www.youtube.com/playlist?list=PLomQNLPOWtzbpKLbhlyYYneuoPfMgfE9f)
+
+
 
 
 

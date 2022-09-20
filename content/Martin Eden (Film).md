@@ -1,7 +1,7 @@
 ---
 title: Martin Eden (Film)
 publishdate: 2022-09-19T21:09:48+01:00
-lastmod: 2022-09-19T21:11:38+01:00
+lastmod: 2022-09-20T10:25:39+01:00
 tags: 
 - film
 - film
