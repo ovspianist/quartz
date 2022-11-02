@@ -1,7 +1,7 @@
 ---
 title: On Connection (Book)
 publishdate: 2022-08-07T14:57:57+01:00
-lastmod: 2022-10-25T21:43:23+01:00
+lastmod: 2022-10-26T09:44:14+01:00
 tags: 
 - book
 - book
