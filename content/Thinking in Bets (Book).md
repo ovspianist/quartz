@@ -1,7 +1,7 @@
 ---
 title: Thinking in Bets (Book)
 publishdate: 2022-07-18T15:24:28+01:00
-lastmod: 2022-10-26T09:44:14+01:00
+lastmod: 2022-12-23T16:00:46+01:00
 tags: 
 - book
 - book
