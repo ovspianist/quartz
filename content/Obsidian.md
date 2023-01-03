@@ -1,7 +1,7 @@
 ---
 title: Obsidian
 publishdate: 2022-07-11T19:20:03+01:00
-lastmod: 2022-08-15T10:14:20+01:00
+lastmod: 2023-01-03T11:44:22+01:00
 tags: 
 - app
 ---
@@ -30,7 +30,7 @@ This page is dedicated for information about how to use Obsidian to fit my perso
 
 
 
- - $ build a tool for easily importing film entries.
+- [ ] - $ build a tool for easily importing film entries.
 
 
 
