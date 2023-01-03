@@ -1,7 +1,7 @@
 ---
 title: Martin Eden (Film)
 publishdate: 2022-09-19T21:09:48+01:00
-lastmod: 2022-10-26T09:44:15+01:00
+lastmod: 2023-01-03T18:08:59+01:00
 tags: 
 - film
 - film
@@ -66,6 +66,10 @@ Apart from the carefully chosen classical music, occasionally there are some pie
 
 
 With top-notch performance delivered by [[@Luca Marinelli]], lush and vintage cinematography shot in 16 mm film, and the occasional poetic documentary footage revealing Martin’s inner thoughts. I highly recommend this film if you want to take a break from the 8k high definition craze.
+
+
+
+ With top-notch performance delivered by [[@Luca Marinelli]], lush and vintage cinematography shot in 16 mm film, and the occasional poetic documentary footage revealing Martin’s inner thoughts. I highly recommend this film if you want to take a break from the 8k high definition craze.
 
 
 
