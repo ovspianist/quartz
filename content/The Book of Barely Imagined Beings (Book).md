@@ -1,7 +1,7 @@
 ---
 title: The Book of Barely Imagined Beings (Book)
 publishdate: 2022-07-18T15:28:32+01:00
-lastmod: 2022-08-06T19:32:59+01:00
+lastmod: 2023-01-03T17:38:20+01:00
 tags: 
 - book
 - book
@@ -37,7 +37,7 @@ From the Axolotl to the Zebrafish, our planet contains a host of barely imagined
 
 
 
- reading
+#reading
 
 
 

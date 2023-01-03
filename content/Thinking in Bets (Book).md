@@ -1,7 +1,7 @@
 ---
 title: Thinking in Bets (Book)
 publishdate: 2022-07-18T15:24:28+01:00
-lastmod: 2022-12-23T16:00:46+01:00
+lastmod: 2023-01-03T17:38:27+01:00
 tags: 
 - book
 - book
@@ -36,10 +36,6 @@ In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversi
 
 
 ## ✏ Review
-
-
-
- reading
 
 
 

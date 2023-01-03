@@ -1,7 +1,7 @@
 ---
 title: Currently Reading
 publishdate: 2022-07-13T17:36:13+01:00
-lastmod: 2022-12-23T16:00:36+01:00
+lastmod: 2023-01-03T17:47:56+01:00
 tags: 
 - list
 ---
@@ -20,7 +20,7 @@ Here are some of the books I'm currently reading, unlike some perfect human bein
 
 
 
-[[Thinking In Bets (Book)]]
+[[That Will Never Work- The Birth of Netflix and the Amazing Life of an Idea (Book)|That Will Never Work]]
 
 
 

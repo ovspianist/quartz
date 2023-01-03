@@ -1,7 +1,7 @@
 ---
 title: What Are You Looking At (Book)
 publishdate: 2022-07-18T15:29:31+01:00
-lastmod: 2022-08-06T19:33:09+01:00
+lastmod: 2023-01-03T17:38:35+01:00
 tags: 
 - book
 - book
@@ -41,7 +41,7 @@ Every year, millions of museum and gallery visitors ponder the modern art on dis
 
 
 
- reading
+#reading
 
 
 
