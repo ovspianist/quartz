@@ -1,7 +1,7 @@
 ---
 title: Obsidian
 publishdate: 2022-07-11T19:20:03+01:00
-lastmod: 2023-01-03T11:44:22+01:00
+lastmod: 2023-01-06T23:24:21+01:00
 tags: 
 - app
 ---
@@ -41,6 +41,8 @@ This page is dedicated for information about how to use Obsidian to fit my perso
 [Obsidian Snippets](https://obsidian-snippets.pages.dev/)
 
 
+
+Obsidian Roundup is a good place to learn about the latest news about Obsidian.
 
 [Resources on Obsidian Roundup](https://www.obsidianroundup.org/resources/)
 

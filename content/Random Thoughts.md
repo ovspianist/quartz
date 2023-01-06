@@ -1,7 +1,7 @@
 ---
 title: Random Thoughts
 publishdate: 2022-08-06T19:29:18+01:00
-lastmod: 2022-08-19T13:49:43+01:00
+lastmod: 2023-01-06T23:21:34+01:00
 tags: 
 - 
 ---
@@ -25,6 +25,8 @@ tags:
 [[Granularity of Cognition]]
 
 
+
+[[See How They Change]]
 
 
 
