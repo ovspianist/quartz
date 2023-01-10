@@ -13,7 +13,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 🎬 Director: [[@Pietro Marcello]] <br> 🎭 Genre: drama, romance <br> 💿 IMDB: https://www.imdb.com/title/tt4516162 <br> 
+ > 🤔 My Rating: 💙💙💙💙🖤 <br> 🎬 Director: [[@Pietro Marcello]] <br> 🎭 Genre: drama, romance <br> 💿 IMDB: https://www.imdb.com/title/tt4516162 <br> 
 
 ![Poster|300](https://m.media-amazon.com/images/M/MV5BM2NlYzg4ZDYtYjAwMC00YmZmLWFhMzYtNTBhNDIwMTRlYTQ1XkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_SX300.jpg)
 

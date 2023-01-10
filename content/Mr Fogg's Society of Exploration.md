@@ -13,7 +13,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚💚💚 <br> 📌 Location: 1a Bedford Street, Covent Garden, London, WC2E 9HH <br> 
+ > 🤔 My Rating: 💙💙💙💙💙 <br> 📌 Location: 1a Bedford Street, Covent Garden, London, WC2E 9HH <br> 
 
 ![img](https://www.mr-foggs.com/propeller/uploads/sites/2/2019/01/TSP9-1-960x480.jpg)
 

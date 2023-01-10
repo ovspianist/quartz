@@ -12,7 +12,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 📌 Location: 2 New Oxford St, London WC1A 1AD <br> 
+ > 🤔 My Rating: 💙💙💙💙🖤 <br> 📌 Location: 2 New Oxford St, London WC1A 1AD <br> 
 
 ![img](https://happylambuk.com/wp-content/uploads/happy-lamb-gallery-footer-3.jpg)
 

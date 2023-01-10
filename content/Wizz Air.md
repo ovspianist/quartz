@@ -12,7 +12,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚🖤🖤🖤 <br> 
+ > 🤔 My Rating: 💙💙🖤🖤🖤 <br> 
 
 
 

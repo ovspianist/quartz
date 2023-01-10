@@ -13,7 +13,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚🖤🖤 <br> 
+ > 🤔 My Rating: 💙💙💙🖤🖤 <br> 
 
 ![Cover|300](https://images-na.ssl-images-amazon.com/images/I/71PakXabS4L.jpg)
 

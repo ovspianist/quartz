@@ -13,7 +13,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 🎬 Director: [[@Anthony Fabian]] <br> 🎭 Genre: comedy, drama <br> 💿 IMDB: https://www.imdb.com/title/tt5151570 <br> 
+ > 🤔 My Rating: 💙💙💙💙🖤 <br> 🎬 Director: [[@Anthony Fabian]] <br> 🎭 Genre: comedy, drama <br> 💿 IMDB: https://www.imdb.com/title/tt5151570 <br> 
 
 ![Poster|300](https://m.media-amazon.com/images/M/MV5BY2UyOWJjMWEtNmIwYS00ZjM5LWEyYjMtMTI4NDBhMzViNmIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg)
 

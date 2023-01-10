@@ -13,7 +13,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚🖤🖤 <br> 🎭 Genre: reality-tv <br> 💿 IMDB: https://www.imdb.com/title/tt11823088 <br> 
+ > 🤔 My Rating: 💙💙💙🖤🖤 <br> 🎭 Genre: reality-tv <br> 💿 IMDB: https://www.imdb.com/title/tt11823088 <br> 
 
 ![Poster|300](https://m.media-amazon.com/images/M/MV5BY2Q2Zjc3NmUtNWEyNS00OGIzLTk3YzQtYTQ5OTI2NTFhNjkyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)
 

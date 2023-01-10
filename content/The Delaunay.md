@@ -12,7 +12,7 @@ tags:
 
 > [!success] Info 
  > 
- > 🤔 My Rating: 💚💚💚💚🖤 <br> 📌 Location: 55 Aldwych, London WC2B 4BB <br> 👍 Recommended By: [[B is for Bauhaus (Book)]] <br> 
+ > 🤔 My Rating: 💙💙💙💙🖤 <br> 📌 Location: 55 Aldwych, London WC2B 4BB <br> 👍 Recommended By: [[B is for Bauhaus (Book)]] <br> 
 
 ![img](https://resizer.otstatic.com/v2/photos/wide-huge/1/25107659.jpg)
 
