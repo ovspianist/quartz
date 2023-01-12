@@ -1,7 +1,7 @@
 ---
 title: Obsidian
 publishdate: 2022-07-11T19:20:03+01:00
-lastmod: 2023-01-06T23:24:21+01:00
+lastmod: 2023-01-10T13:36:11+01:00
 tags: 
 - app
 ---

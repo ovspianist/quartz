@@ -1,7 +1,7 @@
 ---
 title: Random Thoughts
 publishdate: 2022-08-06T19:29:18+01:00
-lastmod: 2023-01-06T23:21:34+01:00
+lastmod: 2023-01-10T13:36:11+01:00
 tags: 
 - 
 ---
