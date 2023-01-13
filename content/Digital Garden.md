@@ -1,7 +1,7 @@
 ---
 title: Digital Garden
 publishdate: 2022-08-06T19:02:43+01:00
-lastmod: 2023-01-10T13:36:04+01:00
+lastmod: 2023-01-12T16:09:51+01:00
 tags: 
 - evergreen
 ---

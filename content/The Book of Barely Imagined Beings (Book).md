@@ -1,7 +1,7 @@
 ---
 title: The Book of Barely Imagined Beings (Book)
 publishdate: 2022-07-18T15:28:32+01:00
-lastmod: 2023-01-10T13:36:17+01:00
+lastmod: 2023-01-12T16:09:51+01:00
 tags: 
 - book
 - book
