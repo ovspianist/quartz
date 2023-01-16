@@ -1,7 +1,7 @@
 ---
 title: B is for Bauhaus (Book)
 publishdate: 2022-08-07T15:02:49+01:00
-lastmod: 2022-08-16T10:09:13+01:00
+lastmod: 2023-01-16T14:57:46+01:00
 tags: 
 - book
 - book
