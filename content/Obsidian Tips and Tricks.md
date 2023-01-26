@@ -1,7 +1,7 @@
 ---
 title: Obsidian Tips and Tricks
 publishdate: 2022-07-12T10:44:23+01:00
-lastmod: 2022-08-07T00:34:13+01:00
+lastmod: 2022-10-29T14:40:25+01:00
 tags: 
 - list
 ---

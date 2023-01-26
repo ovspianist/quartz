@@ -1,7 +1,7 @@
 ---
 title: Cafes in Central London
 publishdate: 2022-07-12T10:28:59+01:00
-lastmod: 2022-08-08T18:37:58+01:00
+lastmod: 2022-10-29T14:40:25+01:00
 tags: 
 - list
 - london

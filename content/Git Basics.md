@@ -1,7 +1,7 @@
 ---
 title: Git Basics
 publishdate: 2022-07-18T23:19:38+01:00
-lastmod: 2022-09-08T06:24:47+01:00
+lastmod: 2023-01-26T09:59:22+01:00
 tags: 
 - ref
 ---
@@ -171,6 +171,20 @@ git merge test
 `git clone [repository url]`
 
 
+
+# Tracking
+
+
+
+#### To stop tracking a file, we must remove it from the index:
+
+`git rm --cached <file>`
+
+
+
+#### To remove a folder and all files in the folder recursively:
+
+`git rm -r --cached <folder>`
 
 
 
