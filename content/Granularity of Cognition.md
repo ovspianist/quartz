@@ -37,5 +37,17 @@ As we learn a new language or other knowledge, we should aim to internalize as m
 
 
 
+fjenrnf 
+
+cush
+
+
+
+
+
+haché
+
+
+
 
 
