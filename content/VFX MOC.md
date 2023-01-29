@@ -1,7 +1,7 @@
 ---
 title: VFX MOC
 publishdate: 
-lastmod: 2023-01-27T10:05:00+01:00
+lastmod: 2023-01-28T11:39:23+01:00
 tags: 
 - moc
 ---

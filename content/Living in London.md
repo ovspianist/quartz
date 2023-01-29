@@ -1,7 +1,7 @@
 ---
 title: Living in London
 publishdate: 2022-08-08T18:32:55+01:00
-lastmod: 2023-01-27T10:05:00+01:00
+lastmod: 2023-01-28T11:39:24+01:00
 tags: 
 - evergreen
 - london

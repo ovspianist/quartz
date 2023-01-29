@@ -1,7 +1,7 @@
 ---
 title: Chrome
 publishdate: 2022-08-07T23:11:57+01:00
-lastmod: 2023-01-27T10:05:00+01:00
+lastmod: 2023-01-28T11:39:23+01:00
 tags: 
 - app
 ---
