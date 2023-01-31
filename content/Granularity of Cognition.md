@@ -1,7 +1,7 @@
 ---
 title: Granularity of Cognition
 publishdate: 2022-07-12T10:28:59+01:00
-lastmod: 2023-01-10T13:36:04+01:00
+lastmod: 2023-01-29T19:14:06+01:00
 tags: 
 - idea
 - idea
