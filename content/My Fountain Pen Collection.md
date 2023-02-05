@@ -1,7 +1,7 @@
 ---
 title: My Fountain Pen Collection
 publishdate: 2022-07-13T22:25:07+01:00
-lastmod: 2023-02-03T10:49:26+01:00
+lastmod: 2023-02-03T20:38:41+01:00
 tags: 
 - list
 ---

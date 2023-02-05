@@ -1,7 +1,7 @@
 ---
 title: Blueprints System
 publishdate: 2022-08-06T19:27:40+01:00
-lastmod: 2023-02-03T10:49:26+01:00
+lastmod: 2023-02-03T20:38:41+01:00
 tags: 
 - 
 ---
