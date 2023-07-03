@@ -1,7 +1,7 @@
 ---
 title: Python
 publishdate: 2022-07-12T10:28:59+01:00
-lastmod: 2023-03-07T16:58:33+01:00
+lastmod: 2023-07-03T23:39:11+01:00
 tags: 
 - app
 ---
@@ -41,6 +41,20 @@ Python is very popular and widely integrated in film visual effects and game ind
 
 
 [[CG Library]]
+
+
+
+[[venv]]
+
+
+
+## 🔗 Links  
+
+
+
+Snippets tutorials
+
+[Code. Simply. Clearly. Calmly.](https://calmcode.io)
 
 
 
